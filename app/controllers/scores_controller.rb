@@ -1,6 +1,7 @@
 class ScoresController < ApplicationController
   def create    
-    current_user.rate(params[:linkedin_id], params[:score].to_i)
+    connection = Connection.find_by_linkedin_id(params[:linkedin_id])
+    connection.rated_by(session[:user_id], params[:score].to_i)
     render :nothing => true
   end
 end
