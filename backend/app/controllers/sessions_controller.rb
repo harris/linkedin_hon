@@ -1,5 +1,6 @@
 class SessionsController < ApplicationController
-
+  skip_before_filter :login_required
+  
   def show
     request_token = $client.request_token(:oauth_callback => "http://#{request.host_with_port}/session/callback")
     session[:rtoken] = request_token.token
@@ -17,8 +18,7 @@ class SessionsController < ApplicationController
     end
     @profile = $client.profile
     @connections = $client.connections
-    p @connections
-    render :text => @connections.length
+    render :text => @connections.all.length
   end
 
 end
