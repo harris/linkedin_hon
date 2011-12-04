@@ -6,8 +6,11 @@ class ApplicationController < ActionController::Base
     if session[:atoken].nil? || session[:asecret].nil?
       redirect_to session_path
     else 
-      $client.authorize_from_access(session[:atoken], session[:asecret])      
+      client.authorize_from_access(session[:atoken], session[:asecret])      
     end
   end
   
+  def client 
+    @client ||= LinkedIn::Client.new('921smhk051xk', '0r4kB7ouRfzBQhWm')    
+  end
 end
