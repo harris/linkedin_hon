@@ -1,0 +1,16 @@
+
+<div data-role="header">
+  <h1>Listing Connections</h1>
+</div>
+ 
+<div data-role="content">
+  <ul data-role="listview">
+	<%= @all_names.join(",") %>
+    <% @all_names.each do |name| %>
+    <li>
+      <%= link_to name, "http://www.google.com" %>
+      <%= link_to 'edit Name', "http://www.google.com", "data-icon" => "gear" %>
+    </li>
+    <% end %>
+  </ul>
+</div>
