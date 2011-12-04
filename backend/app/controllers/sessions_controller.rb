@@ -16,7 +16,11 @@ class SessionsController < ApplicationController
     else
       $client.authorize_from_access(session[:atoken], session[:asecret])
     end
-    redirect_to connections_path
+    uri = URI($client.profile.site_standard_profile_request.url)    
+    linkedin_id = /&key=(\d+)/.match(uri.query)[1]
+    user = User.find_by_linkedin_id(linkedin_id)    
+    User.create!(:linkedin_id => linkedin_id) if !user
+    redirect_to connections_path    
   end
 
 end

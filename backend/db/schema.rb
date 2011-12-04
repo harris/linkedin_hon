@@ -12,9 +12,22 @@
 
 ActiveRecord::Schema.define(:version => 20111204013224) do
 
+  create_table "connections", :force => true do |t|
+    t.string   "title"
+    t.string   "first_name"
+    t.string   "last_name"
+    t.string   "small_url"
+    t.string   "big_url"
+    t.integer  "linkedin_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "users", :force => true do |t|
     t.string   "token"
     t.string   "secret"
+    t.integer  "linkedin_id"
+    t.integer  "connection_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
