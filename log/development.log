@@ -2025,3 +2025,292 @@ Served asset /jquery.js - 304 Not Modified (0ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 20:45:07 -0800 2011
 Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:13:03 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (243.1ms)
+Completed 200 OK in 5505ms (Views: 278.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:13:09 -0800 2011
+Served asset /jquery.js - 304 Not Modified (8ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:13:09 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:13:09 -0800 2011
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:27:02 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (266.5ms)
+Completed 200 OK in 5309ms (Views: 284.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:27:08 -0800 2011
+Served asset /jquery.js - 304 Not Modified (13ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:27:08 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:27:08 -0800 2011
+Served asset /application.js - 304 Not Modified (7ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:27:44 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (242.8ms)
+Completed 200 OK in 5411ms (Views: 256.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:27:49 -0800 2011
+Served asset /jquery.js - 304 Not Modified (23ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:27:49 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:27:49 -0800 2011
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:28:35 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (278.4ms)
+Completed 200 OK in 5787ms (Views: 293.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:28:41 -0800 2011
+Served asset /jquery.js - 304 Not Modified (20ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:28:41 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:28:41 -0800 2011
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:30:21 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (269.1ms)
+Completed 200 OK in 5779ms (Views: 286.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:30:27 -0800 2011
+Served asset /jquery.js - 304 Not Modified (29ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:30:27 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:30:27 -0800 2011
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:31:10 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (291.5ms)
+Completed 200 OK in 5700ms (Views: 308.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:31:16 -0800 2011
+Served asset /jquery.js - 304 Not Modified (23ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:31:16 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:31:16 -0800 2011
+Served asset /application.js - 304 Not Modified (12ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:33:34 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (457.7ms)
+Completed 200 OK in 6740ms (Views: 488.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:33:43 -0800 2011
+Served asset /jquery.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:33:43 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:33:43 -0800 2011
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:36:28 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (307.0ms)
+Completed 200 OK in 5918ms (Views: 331.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:36:34 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (248.1ms)
+Completed 200 OK in 5751ms (Views: 264.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:36:40 -0800 2011
+Served asset /jquery.js - 304 Not Modified (14ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:36:40 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:36:40 -0800 2011
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:38:20 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (259.5ms)
+Completed 200 OK in 5679ms (Views: 279.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:38:25 -0800 2011
+Served asset /jquery.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:38:25 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:38:25 -0800 2011
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:38:54 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (235.3ms)
+Completed 200 OK in 5533ms (Views: 249.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:39:00 -0800 2011
+Served asset /jquery.js - 304 Not Modified (18ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:39:00 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:39:00 -0800 2011
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:40:57 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (245.1ms)
+Completed 200 OK in 5769ms (Views: 260.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:41:03 -0800 2011
+Served asset /jquery.js - 304 Not Modified (12ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:41:03 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:41:03 -0800 2011
+Served asset /application.js - 304 Not Modified (10ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:47:19 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (240.4ms)
+Completed 200 OK in 6975ms (Views: 255.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:47:26 -0800 2011
+Served asset /jquery.js - 304 Not Modified (22ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:47:26 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:47:26 -0800 2011
+Served asset /application.js - 304 Not Modified (19ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:49:12 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (233.4ms)
+Completed 200 OK in 5369ms (Views: 247.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:49:17 -0800 2011
+Served asset /jquery.js - 304 Not Modified (15ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:49:17 -0800 2011
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:49:17 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:51:58 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (237.8ms)
+Completed 200 OK in 3512ms (Views: 251.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:52:02 -0800 2011
+Served asset /jquery.js - 304 Not Modified (14ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:52:02 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:52:02 -0800 2011
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 22:02:02 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (239.7ms)
+Compiled application.js  (1ms)  (pid 31225)
+Completed 200 OK in 7035ms (Views: 1304.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 22:02:09 -0800 2011
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 22:04:28 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (239.4ms)
+Completed 200 OK in 5949ms (Views: 248.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 22:04:34 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 22:05:22 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (453.3ms)
+Completed 200 OK in 6511ms (Views: 469.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 22:05:32 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)

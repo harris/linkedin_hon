@@ -6,8 +6,9 @@
         data-prev-id="<%= @connections[i-1].id %>"
       <% end %>
       <% if i < @connections.length - 1 %>
-        data-next-id="<%= @connections[i-1].id %>"
+        data-next-id="<%= @connections[i+1].id %>"
       <% end %>
+     data-profile="true"
   >
     <div data-role="header">
       <p> <%= @connections[i].first_name %> <%= @connections[i].last_name %></p>
@@ -16,7 +17,7 @@
     <div data-role="content">
       <img src="<%= @connections[i].pictureUrl %>" />
     </div>
- 
+
     <div data-role="footer">
       <% if i > 0 %>
         <a href="#<%= @connections[i-1].id %>" data-role="button"
@@ -31,3 +32,18 @@
 
   <% end %>
 <% end %>
+
+<script>
+  $('[data-profile="true"]').live('tap click swipeLeft', function() {
+    if ($(this).attr('data-next-id')) {
+      $.mobile.changePage('#' + $(this).attr('data-next-id'));
+    }
+  });
+
+  $('[data-profile="true"]').live('swipeRight', function() {
+    if ($(this).attr('data-prev-id')) {
+      $.mobile.changePage('#' + $(this).attr('data-prev-id'));
+    }
+  });
+</script>
+

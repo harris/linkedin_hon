@@ -1,0 +1,2142 @@
+
+
+Started GET "/au" for 127.0.0.1 at Sat Dec 03 15:08:47 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/au"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (13.6ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:08:48 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:08:48 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/aut" for 127.0.0.1 at Sat Dec 03 15:09:28 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/aut"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at Sat Dec 03 15:09:28 -0800 2011
+Served asset /rails.png - 200 OK (5ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at Sat Dec 03 15:09:29 -0800 2011
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/inde" for 127.0.0.1 at Sat Dec 03 15:09:31 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/inde"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at Sat Dec 03 15:09:32 -0800 2011
+Served asset /rails.png - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 15:10:00 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/a" for 127.0.0.1 at Sat Dec 03 15:10:03 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/a"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:10:03 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:12:52 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 15:12:56 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 15:15:04 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.5ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:15:06 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/auth/" for 127.0.0.1 at Sat Dec 03 15:15:07 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/auth/" for 127.0.0.1 at Sat Dec 03 15:15:08 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:16:43 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 15:16:44 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/index" for 127.0.0.1 at Sat Dec 03 15:16:45 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/index"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/a" for 127.0.0.1 at Sat Dec 03 15:18:26 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/a"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/authr" for 127.0.0.1 at Sat Dec 03 15:18:27 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/authr"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:18:27 -0800 2011
+
+LoadError (no such file to load -- linkedin):
+  app/controllers/authcontroller_controller.rb:2
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.4ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:18:27 -0800 2011
+
+LoadError (no such file to load -- linkedin):
+  app/controllers/authcontroller_controller.rb:2
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.2ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:19:13 -0800 2011
+
+LoadError (no such file to load -- linkedin):
+  app/controllers/authcontroller_controller.rb:2
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.8ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:20:02 -0800 2011
+
+LoadError (no such file to load -- linkedin):
+  app/controllers/authcontroller_controller.rb:2
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.4ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:20:09 -0800 2011
+
+LoadError (no such file to load -- linkedin):
+  app/controllers/authcontroller_controller.rb:2
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.7ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.1ms)
+
+
+Started GET "/auth/" for 127.0.0.1 at Sat Dec 03 15:22:08 -0800 2011
+
+LoadError (no such file to load -- linkedin):
+  app/controllers/authcontroller_controller.rb:2
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (6.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (11.3ms)
+
+
+Started GET "/auth/callback" for 127.0.0.1 at Sat Dec 03 15:22:08 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/auth/callback"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:23:05 -0800 2011
+
+LoadError (no such file to load -- linkedin):
+  app/controllers/authcontroller_controller.rb:2
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.4ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.4ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:25:32 -0800 2011
+
+LoadError (no such file to load -- linkedin):
+  app/controllers/authcontroller_controller.rb:2
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.8ms)
+
+
+Started GET "/auth/" for 127.0.0.1 at Sat Dec 03 15:26:03 -0800 2011
+
+LoadError (no such file to load -- linkedin):
+  app/controllers/authcontroller_controller.rb:2
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.4ms)
+
+
+Started GET "/auth/callback" for 127.0.0.1 at Sat Dec 03 15:26:04 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/auth/callback"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.0ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:27:23 -0800 2011
+
+LoadError (no such file to load -- linkedin):
+  app/controllers/authcontroller_controller.rb:2
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.4ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:33:53 -0800 2011
+
+LoadError (no such file to load -- linkedin):
+  app/controllers/authcontroller_controller.rb:2
+
+Rendered linkedin/ruby/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered linkedin/ruby/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.0ms)
+Rendered linkedin/ruby/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.2ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:35:13 -0800 2011
+
+LoadError (no such file to load -- linkedin):
+  app/controllers/authcontroller_controller.rb:2
+
+Rendered linkedin/ruby/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered linkedin/ruby/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+Rendered linkedin/ruby/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.7ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 15:42:02 -0800 2011
+
+LoadError (no such file to load -- linkedin):
+  app/controllers/authcontroller_controller.rb:2
+
+Rendered linkedin/ruby/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered linkedin/ruby/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+Rendered linkedin/ruby/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.5ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 16:07:59 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+
+Rendered linkedin/ruby/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at Sat Dec 03 16:14:34 -0800 2011
+Served asset /rails.png - 304 Not Modified (2ms)
+
+
+Started GET "/aut" for 127.0.0.1 at Sat Dec 03 16:14:35 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/aut"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (2.7ms)
+
+
+Started GET "/auth" for 127.0.0.1 at Sat Dec 03 16:14:35 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/se" for 127.0.0.1 at Sat Dec 03 16:14:38 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/se"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/session" for 127.0.0.1 at Sat Dec 03 16:14:39 -0800 2011
+  Processing by SessionsController#show as HTML
+Redirected to https://www.linkedin.com/uas/oauth/authorize?oauth_token=9ec2c4f5-65e8-4f5e-ac9f-9afd7af5098b
+Completed 302 Found in 147ms
+
+
+Started GET "/sessions" for 127.0.0.1 at Sat Dec 03 16:14:40 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/sessions"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/session" for 127.0.0.1 at Sat Dec 03 16:14:41 -0800 2011
+  Processing by SessionsController#show as HTML
+Redirected to https://www.linkedin.com/uas/oauth/authorize?oauth_token=9ec2c4f5-65e8-4f5e-ac9f-9afd7af5098b
+Completed 302 Found in 1ms
+
+
+Started GET "/session" for 127.0.0.1 at Sat Dec 03 16:14:41 -0800 2011
+  Processing by SessionsController#show as HTML
+Redirected to https://www.linkedin.com/uas/oauth/authorize?oauth_token=9ec2c4f5-65e8-4f5e-ac9f-9afd7af5098b
+Completed 302 Found in 1ms
+
+
+Started GET "/session/callback?oauth_token=9ec2c4f5-65e8-4f5e-ac9f-9afd7af5098b&oauth_verifier=15021" for 127.0.0.1 at Sat Dec 03 16:14:45 -0800 2011
+  Processing by SessionsController#callback as HTML
+  Parameters: {"oauth_verifier"=>"15021", "oauth_token"=>"9ec2c4f5-65e8-4f5e-ac9f-9afd7af5098b"}
+Rendered text template (0.0ms)
+Completed 200 OK in 8004ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at Sat Dec 03 16:25:41 -0800 2011
+Served asset /rails.png - 200 OK (2ms)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at Sat Dec 03 16:25:42 -0800 2011
+Served asset /rails.png - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 16:29:38 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 215ms
+
+LinkedIn::Errors::NotFoundError ((404): Not Found):
+  app/controllers/connections_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 16:30:05 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 159ms
+
+LinkedIn::Errors::NotFoundError ((404): Not Found):
+  app/controllers/connections_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.1ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 16:30:09 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 84ms
+
+LinkedIn::Errors::NotFoundError ((404): Not Found):
+  app/controllers/connections_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.2ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 16:31:27 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 462ms
+
+LinkedIn::Errors::NotFoundError ((404): Not Found):
+  app/controllers/connections_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.8ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 16:31:40 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 94ms
+
+LinkedIn::Errors::NotFoundError ((404): Not Found):
+  app/controllers/connections_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.3ms)
+
+
+Started GET "/s" for 127.0.0.1 at Sat Dec 03 16:31:46 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/s"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/session" for 127.0.0.1 at Sat Dec 03 16:31:46 -0800 2011
+  Processing by SessionsController#show as HTML
+Redirected to https://www.linkedin.com/uas/oauth/authorize?oauth_token=ebf462a7-14ef-4ded-bc87-7a739f5cebc5
+Completed 302 Found in 106ms
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 16:31:55 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 93ms
+
+LinkedIn::Errors::NotFoundError ((404): Not Found):
+  app/controllers/connections_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.9ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 16:31:57 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 84ms
+
+LinkedIn::Errors::NotFoundError ((404): Not Found):
+  app/controllers/connections_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.8ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 16:32:21 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Redirected to http://localhost:3000/session
+Completed 302 Found in 1ms
+
+
+Started GET "/session" for 127.0.0.1 at Sat Dec 03 16:32:21 -0800 2011
+  Processing by SessionsController#show as HTML
+Redirected to https://www.linkedin.com/uas/oauth/authorize?oauth_token=ebf462a7-14ef-4ded-bc87-7a739f5cebc5
+Completed 302 Found in 1ms
+
+
+Started GET "/session/callback?oauth_token=ebf462a7-14ef-4ded-bc87-7a739f5cebc5&oauth_verifier=92080" for 127.0.0.1 at Sat Dec 03 16:32:27 -0800 2011
+  Processing by SessionsController#callback as HTML
+  Parameters: {"oauth_verifier"=>"92080", "oauth_token"=>"ebf462a7-14ef-4ded-bc87-7a739f5cebc5"}
+Redirected to http://localhost:3000/connections
+Completed 302 Found in 104ms
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 16:32:27 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 83ms
+
+LinkedIn::Errors::NotFoundError ((404): Not Found):
+  app/controllers/connections_controller.rb:3:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 16:34:08 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Redirected to http://localhost:3000/session
+Completed 302 Found in 1ms
+
+
+Started GET "/session" for 127.0.0.1 at Sat Dec 03 16:34:08 -0800 2011
+  Processing by SessionsController#show as HTML
+Redirected to https://www.linkedin.com/uas/oauth/authorize?oauth_token=d1387dab-46a9-4c3b-8458-480bf8430619
+Completed 302 Found in 553ms
+
+
+Started GET "/session/callback?oauth_token=d1387dab-46a9-4c3b-8458-480bf8430619&oauth_verifier=84444" for 127.0.0.1 at Sat Dec 03 16:34:15 -0800 2011
+  Processing by SessionsController#callback as HTML
+  Parameters: {"oauth_verifier"=>"84444", "oauth_token"=>"d1387dab-46a9-4c3b-8458-480bf8430619"}
+Redirected to http://localhost:3000/connections
+Completed 302 Found in 102ms
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 16:34:15 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered text template (0.0ms)
+Completed 200 OK in 5591ms (Views: 13.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/aut" for 127.0.0.1 at Sat Dec 03 16:43:00 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/aut"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (3.3ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 16:43:01 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 5929ms
+
+ActionView::MissingTemplate (Missing template connections/index, application/index with {:handlers=>[:builder, :erb, :coffee], :locale=>[:en, :en], :formats=>[:html]}. Searched in:
+  * "/Users/rickywong/Documents/linkedin_hon/backend/app/views"
+):
+  app/controllers/connections_controller.rb:7:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 16:43:07 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 5593ms
+
+ActionView::MissingTemplate (Missing template connections/index, application/index with {:handlers=>[:builder, :erb, :coffee], :locale=>[:en, :en], :formats=>[:html]}. Searched in:
+  * "/Users/rickywong/Documents/linkedin_hon/backend/app/views"
+):
+  app/controllers/connections_controller.rb:7:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 16:45:48 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 5728ms
+
+ActionView::MissingTemplate (Missing template connections/connections, application/connections with {:handlers=>[:builder, :erb, :coffee], :locale=>[:en, :en], :formats=>[:html]}. Searched in:
+  * "/Users/rickywong/Documents/linkedin_hon/backend/app/views"
+):
+  app/controllers/connections_controller.rb:7:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (0.4ms)
+
+
+Started GET "/c" for 127.0.0.1 at Sat Dec 03 16:45:54 -0800 2011
+
+ActionController::RoutingError (No route matches [GET] "/c"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 16:45:54 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 5607ms
+
+ActionView::MissingTemplate (Missing template connections/connections, application/connections with {:handlers=>[:builder, :erb, :coffee], :locale=>[:en, :en], :formats=>[:html]}. Searched in:
+  * "/Users/rickywong/Documents/linkedin_hon/backend/app/views"
+):
+  app/controllers/connections_controller.rb:7:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 16:46:23 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Redirected to http://localhost:3000/session
+Completed 302 Found in 1ms
+
+
+Started GET "/session" for 127.0.0.1 at Sat Dec 03 16:46:23 -0800 2011
+  Processing by SessionsController#show as HTML
+Redirected to https://www.linkedin.com/uas/oauth/authorize?oauth_token=d1387dab-46a9-4c3b-8458-480bf8430619
+Completed 302 Found in 1ms
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 16:46:31 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Redirected to http://localhost:3000/session
+Completed 302 Found in 1ms
+
+
+Started GET "/session" for 127.0.0.1 at Sat Dec 03 16:46:31 -0800 2011
+  Processing by SessionsController#show as HTML
+Redirected to https://www.linkedin.com/uas/oauth/authorize?oauth_token=d1387dab-46a9-4c3b-8458-480bf8430619
+Completed 302 Found in 1ms
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 16:46:56 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Redirected to http://localhost:3000/session
+Completed 302 Found in 1ms
+
+
+Started GET "/session" for 127.0.0.1 at Sat Dec 03 16:46:56 -0800 2011
+  Processing by SessionsController#show as HTML
+Redirected to https://www.linkedin.com/uas/oauth/authorize?oauth_token=65e535ad-842a-4a0a-ad3b-15e8924d1f06
+Completed 302 Found in 185ms
+
+
+Started GET "/session/callback?oauth_token=65e535ad-842a-4a0a-ad3b-15e8924d1f06&oauth_verifier=17706" for 127.0.0.1 at Sat Dec 03 16:47:01 -0800 2011
+  Processing by SessionsController#callback as HTML
+  Parameters: {"oauth_verifier"=>"17706", "oauth_token"=>"65e535ad-842a-4a0a-ad3b-15e8924d1f06"}
+Redirected to http://localhost:3000/connections
+Completed 302 Found in 104ms
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 16:47:01 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 5112ms
+
+ActionView::MissingTemplate (Missing template connections/connections, application/connections with {:handlers=>[:builder, :erb, :coffee], :locale=>[:en, :en], :formats=>[:html]}. Searched in:
+  * "/Users/rickywong/Documents/linkedin_hon/backend/app/views"
+):
+  app/controllers/connections_controller.rb:7:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (2.7ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 16:48:29 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 6114ms
+
+ActionView::MissingTemplate (Missing template connections/connections, application/connections with {:handlers=>[:builder, :erb, :coffee], :locale=>[:en, :en], :formats=>[:html]}. Searched in:
+  * "/Users/rickywong/Documents/linkedin_hon/backend/app/views"
+):
+  app/controllers/connections_controller.rb:7:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (0.4ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 16:49:55 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 5451ms
+
+ActionView::MissingTemplate (Missing template connections/connections, application/connections with {:handlers=>[:builder, :erb, :coffee], :locale=>[:en, :en], :formats=>[:html]}. Searched in:
+  * "/Users/rickywong/Documents/linkedin_hon/backend/app/views"
+):
+  app/controllers/connections_controller.rb:7:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (0.4ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 16:51:21 -0800 2011
+
+ActionController::RoutingError (uninitialized constant ConnectionsController):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 16:51:57 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Completed 500 Internal Server Error in 5300ms
+
+ActionView::MissingTemplate (Missing template connections/connections, application/connections with {:handlers=>[:builder, :erb, :coffee], :locale=>[:en, :en], :formats=>[:html]}. Searched in:
+  * "/Users/rickywong/Documents/linkedin_hon/backend/app/views"
+):
+  app/controllers/connections_controller.rb:7:in `index'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (0.4ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 16:57:07 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Compiled application.css  (2ms)  (pid 29231)
+Compiled application.js  (7ms)  (pid 29231)
+Compiled jquery.js  (35ms)  (pid 29231)
+Compiled jquery_ujs.js  (1ms)  (pid 29231)
+Rendered connections/index.html.erb within layouts/application (522.0ms)
+Completed 500 Internal Server Error in 5973ms
+
+ActionView::Template::Error (undefined local variable or method `all_names' for #<#<Class:0x10393cd18>:0x103938a10>):
+    12: </head>
+    13: <body>
+    14: 
+    15: <%= all_names %>
+    16: 
+    17: </body>
+    18: </html>
+  app/views/connections/index.html.erb:15:in `_app_views_connections_index_html_erb__656359549_2177479100'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (6.1ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 16:58:52 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (5.8ms)
+Completed 500 Internal Server Error in 5176ms
+
+ActionView::Template::Error (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.each):
+    12: </head>
+    13: <body>
+    14: 
+    15: <% @name.each do |all_names| %>
+    16:   <p><%= @name %></p>
+    17: <% end %>
+    18: 
+  app/views/connections/index.html.erb:15:in `_app_views_connections_index_html_erb__656359549_2163424060'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.5ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (5.3ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 17:00:00 -0800 2011
+  Processing by ConnectionsController#index as HTML
+ERROR: compiling _app_views_connections_index_html_erb__656359549_2179604260 RAISED compile error
+/Users/rickywong/Documents/linkedin_hon/backend/app/views/connections/index.html.erb:15: syntax error, unexpected '|', expecting kEND
+'); |all_names|.each do |name| 
+     ^
+Function body:           def _app_views_connections_index_html_erb__656359549_2179604260(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "connections/index";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.safe_concat('<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.css" />
+<script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js"></script>
+
+<head>
+  <title>Backend</title>
+  ');@output_buffer.append= ( stylesheet_link_tag    "application" );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  ');@output_buffer.append= ( javascript_include_tag "application" );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  ');@output_buffer.append= ( csrf_meta_tags );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('</head>
+<body>
+
+'); |all_names|.each do |name| 
+@output_buffer.safe_concat('  <p>');@output_buffer.append= ( @name );@output_buffer.safe_concat('</p>
+'); end 
+@output_buffer.safe_concat('
+</body>
+</html>
+');@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+Backtrace: /Users/rickywong/Documents/linkedin_hon/backend/app/views/connections/index.html.erb:24:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/template.rb:217:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/template.rb:170:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/notifications.rb:55:in `instrument'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/template.rb:169:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/template_renderer.rb:40:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/abstract_renderer.rb:33:in `instrument'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/notifications.rb:53:in `instrument'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/notifications.rb:53:in `instrument'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/abstract_renderer.rb:33:in `instrument'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/template_renderer.rb:39:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/template_renderer.rb:47:in `render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/template_renderer.rb:38:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/template_renderer.rb:12:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/abstract_renderer.rb:22:in `wrap_formats'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/template_renderer.rb:9:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/renderer.rb:17:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/rendering.rb:120:in `_render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/streaming.rb:250:in `_render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/rendering.rb:114:in `render_to_body'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/renderers.rb:30:in `render_to_body'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/compatibility.rb:43:in `render_to_body'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/rendering.rb:99:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/rendering.rb:16:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/instrumentation.rb:40:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/instrumentation.rb:40:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/instrumentation.rb:78:in `cleanup_view_runtime'
+/Library/Ruby/Gems/1.8/gems/activerecord-3.1.3/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/base.rb:167:in `process_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/callbacks.rb:18:in `process_action'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:425:in `_run__1454810231__process_action__199225275__callbacks'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:386:in `send'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:386:in `_run_process_action_callbacks'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:81:in `send'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/rescue.rb:17:in `process_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/notifications.rb:53:in `instrument'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/notifications.rb:53:in `instrument'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/params_wrapper.rb:201:in `process_action'
+/Library/Ruby/Gems/1.8/gems/activerecord-3.1.3/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/base.rb:121:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/rendering.rb:45:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal.rb:193:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal.rb:236:in `action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/routing/route_set.rb:65:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/routing/route_set.rb:65:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/routing/route_set.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-mount-0.8.3/lib/rack/mount/route_set.rb:152:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-mount-0.8.3/lib/rack/mount/code_generation.rb:96:in `recognize'
+/Library/Ruby/Gems/1.8/gems/rack-mount-0.8.3/lib/rack/mount/code_generation.rb:75:in `optimized_each'
+/Library/Ruby/Gems/1.8/gems/rack-mount-0.8.3/lib/rack/mount/code_generation.rb:95:in `recognize'
+/Library/Ruby/Gems/1.8/gems/rack-mount-0.8.3/lib/rack/mount/route_set.rb:141:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/routing/route_set.rb:532:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/etag.rb:23:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/conditionalget.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/head.rb:14:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/flash.rb:247:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/session/abstract/id.rb:195:in `context'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/session/abstract/id.rb:190:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/cookies.rb:331:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-3.1.3/lib/active_record/query_cache.rb:64:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-3.1.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:477:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/callbacks.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:392:in `_run_call_callbacks'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:81:in `send'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/callbacks.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/reloader.rb:68:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/sendfile.rb:101:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/remote_ip.rb:48:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/show_exceptions.rb:47:in `call'
+/Library/Ruby/Gems/1.8/gems/railties-3.1.3/lib/rails/rack/logger.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/runtime.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/lock.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/static.rb:53:in `call'
+/Library/Ruby/Gems/1.8/gems/railties-3.1.3/lib/rails/engine.rb:456:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/content_length.rb:14:in `call'
+/Library/Ruby/Gems/1.8/gems/railties-3.1.3/lib/rails/rack/log_tailer.rb:14:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/handler/webrick.rb:59:in `service'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/handler/webrick.rb:13:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/server.rb:265:in `start'
+/Library/Ruby/Gems/1.8/gems/railties-3.1.3/lib/rails/commands/server.rb:70:in `start'
+/Library/Ruby/Gems/1.8/gems/railties-3.1.3/lib/rails/commands.rb:54
+/Library/Ruby/Gems/1.8/gems/railties-3.1.3/lib/rails/commands.rb:49:in `tap'
+/Library/Ruby/Gems/1.8/gems/railties-3.1.3/lib/rails/commands.rb:49
+script/rails:6:in `require'
+script/rails:6
+Rendered connections/index.html.erb within layouts/application (0.9ms)
+Completed 500 Internal Server Error in 5012ms
+
+ActionView::Template::Error (compile error
+/Users/rickywong/Documents/linkedin_hon/backend/app/views/connections/index.html.erb:15: syntax error, unexpected '|', expecting kEND
+'); |all_names|.each do |name| 
+     ^):
+    12: </head>
+    13: <body>
+    14: 
+    15: <% |all_names|.each do |name| %>
+    16:   <p><%= @name %></p>
+    17: <% end %>
+    18: 
+  app/views/connections/index.html.erb:24:in `compile'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.9ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (6.0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 17:00:22 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (292.1ms)
+Completed 500 Internal Server Error in 5634ms
+
+ActionView::Template::Error (undefined local variable or method `all_names' for #<#<Class:0x103ce17e8>:0x103cdd148>):
+    12: </head>
+    13: <body>
+    14: 
+    15: <% all_names.each do |name| %>
+    16:   <p><%= @name %></p>
+    17: <% end %>
+    18: 
+  app/views/connections/index.html.erb:15:in `_app_views_connections_index_html_erb__656359549_2179390500'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.5ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.2ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 17:00:54 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (13.2ms)
+Completed 200 OK in 5293ms (Views: 25.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 17:01:00 -0800 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 17:01:00 -0800 2011
+Served asset /jquery.js - 200 OK (9ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 17:01:00 -0800 2011
+Served asset /jquery_ujs.js - 200 OK (24ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 17:01:00 -0800 2011
+Served asset /application.js - 200 OK (1ms)
+
+
+Started GET "/assets/jquery.js?body=1&_=1322960460572" for 127.0.0.1 at Sat Dec 03 17:01:00 -0800 2011
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1&_=1322960460655" for 127.0.0.1 at Sat Dec 03 17:01:00 -0800 2011
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1&_=1322960460666" for 127.0.0.1 at Sat Dec 03 17:01:00 -0800 2011
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 17:01:14 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (13.9ms)
+Completed 200 OK in 5381ms (Views: 26.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 17:01:19 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 17:01:20 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 17:01:20 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 17:01:20 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 17:01:20 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 17:01:20 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 17:01:20 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 17:01:20 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1&_=1322960480417" for 127.0.0.1 at Sat Dec 03 17:01:20 -0800 2011
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1&_=1322960480470" for 127.0.0.1 at Sat Dec 03 17:01:20 -0800 2011
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1&_=1322960480481" for 127.0.0.1 at Sat Dec 03 17:01:20 -0800 2011
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 17:31:26 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (37.2ms)
+Completed 200 OK in 5564ms (Views: 48.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 17:31:32 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 17:31:32 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 17:31:32 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 17:31:32 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1&_=1322962292458" for 127.0.0.1 at Sat Dec 03 17:31:32 -0800 2011
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1&_=1322962292537" for 127.0.0.1 at Sat Dec 03 17:31:32 -0800 2011
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1&_=1322962292564" for 127.0.0.1 at Sat Dec 03 17:31:32 -0800 2011
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 17:33:35 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (80.7ms)
+Completed 200 OK in 5522ms (Views: 93.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 17:33:40 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 17:33:40 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 17:33:40 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 17:33:40 -0800 2011
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 17:34:01 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (89.2ms)
+Completed 200 OK in 5502ms (Views: 101.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 17:34:06 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 17:34:06 -0800 2011
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 17:34:06 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 17:34:06 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 17:34:06 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 17:37:51 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (210.0ms)
+Completed 200 OK in 5883ms (Views: 222.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 17:37:57 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 17:37:57 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 17:37:57 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 17:37:57 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 17:38:26 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 17:38:26 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 17:56:51 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (289.5ms)
+Completed 200 OK in 5909ms (Views: 308.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 17:56:57 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 17:56:57 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 17:56:57 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 17:56:57 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 17:58:54 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (126.6ms)
+Completed 200 OK in 5742ms (Views: 140.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 17:58:59 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 17:58:59 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 17:58:59 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 17:58:59 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 17:59:00 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 17:59:00 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 17:59:39 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (205.7ms)
+Completed 200 OK in 5760ms (Views: 218.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 17:59:45 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 17:59:45 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 17:59:45 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 17:59:45 -0800 2011
+Served asset /application.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1&_=1322963985908" for 127.0.0.1 at Sat Dec 03 17:59:45 -0800 2011
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1&_=1322963986235" for 127.0.0.1 at Sat Dec 03 17:59:46 -0800 2011
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1&_=1322963986247" for 127.0.0.1 at Sat Dec 03 17:59:46 -0800 2011
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 18:07:45 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (5.9ms)
+Completed 500 Internal Server Error in 5675ms
+
+ActionView::Template::Error (You have a nil object when you didn't expect it!
+You might have expected an instance of Array.
+The error occurred while evaluating nil.split):
+    28:     </div><!-- /header -->
+    29: 
+    30:     <div data-role="content">
+    31:       <img src="<%= connection.pictureUrl.split("http://m4.licdn.com/mpr/mpr/shrink_100_100") %>" />
+    32:       <p><%= connection.last_name %></p>
+    33:     </div>
+    34:  
+  app/views/connections/index.html.erb:31:in `_app_views_connections_index_html_erb__656359549_2178183020'
+  app/views/connections/index.html.erb:22:in `each'
+  app/views/connections/index.html.erb:22:in `_app_views_connections_index_html_erb__656359549_2178183020'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.2ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (6.2ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 18:10:15 -0800 2011
+  Processing by ConnectionsController#index as HTML
+ERROR: compiling _app_views_connections_index_html_erb__656359549_2178318140 RAISED compile error
+/Users/rickywong/Documents/linkedin_hon/backend/app/views/connections/index.html.erb:23: syntax error, unexpected kNOT, expecting kTHEN or ':' or '\n' or ';'
+   if connection.pictureUrl is not nil 
+                                  ^
+/Users/rickywong/Documents/linkedin_hon/backend/app/views/connections/index.html.erb:46: syntax error, unexpected kENSURE, expecting $end
+Function body:           def _app_views_connections_index_html_erb__656359549_2178318140(local_assigns, output_buffer)
+            _old_virtual_path, @virtual_path = @virtual_path, "connections/index";_old_output_buffer = @output_buffer;;@output_buffer = output_buffer || ActionView::OutputBuffer.new;@output_buffer.safe_concat('<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.css" />
+<script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js"></script>
+
+<script>
+  function createRater(name, profile_img) {
+    var div = $(\'div\');
+     
+  }
+</script>
+
+<head>
+  <title>Backend</title>
+  ');@output_buffer.append= ( stylesheet_link_tag    "application" );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  ');@output_buffer.append= ( javascript_include_tag "application" );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('  ');@output_buffer.append= ( csrf_meta_tags );@output_buffer.safe_concat('
+');@output_buffer.safe_concat('</head>
+<body>
+
+'); @connections.each do |connection| 
+   if connection.pictureUrl is not nil 
+@output_buffer.safe_concat('<!--
+  <div data-role="page">
+-->
+    <div data-role="header">
+      <p>');@output_buffer.append= ( connection.first_name );@output_buffer.safe_concat(' ');@output_buffer.append= ( connection.last_name );@output_buffer.safe_concat('</p>
+    </div><!-- /header -->
+
+    <div data-role="content">
+      <img src="');@output_buffer.append= ( connection.pictureUrl.split("http://m4.licdn.com/mpr/mpr/shrink_100_100") );@output_buffer.safe_concat('" />
+      <p>');@output_buffer.append= ( connection.last_name );@output_buffer.safe_concat('</p>
+    </div>
+ 
+    <div data-role="footer"></div>
+<!--
+  </div>
+-->
+');   end 
+ end 
+@output_buffer.safe_concat('
+</body>
+</html>
+');@output_buffer.to_s
+          ensure
+            @virtual_path, @output_buffer = _old_virtual_path, _old_output_buffer
+          end
+Backtrace: /Users/rickywong/Documents/linkedin_hon/backend/app/views/connections/index.html.erb:46:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/template.rb:217:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/template.rb:170:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/notifications.rb:55:in `instrument'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/template.rb:169:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/template_renderer.rb:40:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/abstract_renderer.rb:33:in `instrument'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/notifications.rb:53:in `instrument'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/notifications.rb:53:in `instrument'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/abstract_renderer.rb:33:in `instrument'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/template_renderer.rb:39:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/template_renderer.rb:47:in `render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/template_renderer.rb:38:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/template_renderer.rb:12:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/abstract_renderer.rb:22:in `wrap_formats'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/template_renderer.rb:9:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/renderer.rb:36:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_view/renderer/renderer.rb:17:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/rendering.rb:120:in `_render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/streaming.rb:250:in `_render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/rendering.rb:114:in `render_to_body'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/renderers.rb:30:in `render_to_body'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/compatibility.rb:43:in `render_to_body'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/rendering.rb:99:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/rendering.rb:16:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/instrumentation.rb:40:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/instrumentation.rb:40:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/instrumentation.rb:78:in `cleanup_view_runtime'
+/Library/Ruby/Gems/1.8/gems/activerecord-3.1.3/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/instrumentation.rb:39:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/base.rb:167:in `process_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/rendering.rb:10:in `process_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/callbacks.rb:18:in `process_action'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:425:in `_run__1454810231__process_action__199225275__callbacks'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:386:in `send'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:386:in `_run_process_action_callbacks'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:81:in `send'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/callbacks.rb:17:in `process_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/rescue.rb:17:in `process_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/notifications.rb:53:in `instrument'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/notifications.rb:53:in `instrument'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/params_wrapper.rb:201:in `process_action'
+/Library/Ruby/Gems/1.8/gems/activerecord-3.1.3/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/base.rb:121:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/abstract_controller/rendering.rb:45:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal.rb:193:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_controller/metal.rb:236:in `action'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/routing/route_set.rb:65:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/routing/route_set.rb:65:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/routing/route_set.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-mount-0.8.3/lib/rack/mount/route_set.rb:152:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-mount-0.8.3/lib/rack/mount/code_generation.rb:96:in `recognize'
+/Library/Ruby/Gems/1.8/gems/rack-mount-0.8.3/lib/rack/mount/code_generation.rb:75:in `optimized_each'
+/Library/Ruby/Gems/1.8/gems/rack-mount-0.8.3/lib/rack/mount/code_generation.rb:95:in `recognize'
+/Library/Ruby/Gems/1.8/gems/rack-mount-0.8.3/lib/rack/mount/route_set.rb:141:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/routing/route_set.rb:532:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/etag.rb:23:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/conditionalget.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/head.rb:14:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/flash.rb:247:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/session/abstract/id.rb:195:in `context'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/session/abstract/id.rb:190:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/cookies.rb:331:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-3.1.3/lib/active_record/query_cache.rb:64:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-3.1.3/lib/active_record/connection_adapters/abstract/connection_pool.rb:477:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/callbacks.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:392:in `_run_call_callbacks'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:81:in `send'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/callbacks.rb:81:in `run_callbacks'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/callbacks.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/reloader.rb:68:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/sendfile.rb:101:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/remote_ip.rb:48:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/show_exceptions.rb:47:in `call'
+/Library/Ruby/Gems/1.8/gems/railties-3.1.3/lib/rails/rack/logger.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/runtime.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/activesupport-3.1.3/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/lock.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/static.rb:53:in `call'
+/Library/Ruby/Gems/1.8/gems/railties-3.1.3/lib/rails/engine.rb:456:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/content_length.rb:14:in `call'
+/Library/Ruby/Gems/1.8/gems/railties-3.1.3/lib/rails/rack/log_tailer.rb:14:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/handler/webrick.rb:59:in `service'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:95:in `start'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `each'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:92:in `start'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:23:in `start'
+/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/webrick/server.rb:82:in `start'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/handler/webrick.rb:13:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.3.5/lib/rack/server.rb:265:in `start'
+/Library/Ruby/Gems/1.8/gems/railties-3.1.3/lib/rails/commands/server.rb:70:in `start'
+/Library/Ruby/Gems/1.8/gems/railties-3.1.3/lib/rails/commands.rb:54
+/Library/Ruby/Gems/1.8/gems/railties-3.1.3/lib/rails/commands.rb:49:in `tap'
+/Library/Ruby/Gems/1.8/gems/railties-3.1.3/lib/rails/commands.rb:49
+script/rails:6:in `require'
+script/rails:6
+Rendered connections/index.html.erb within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 5754ms
+
+ActionView::Template::Error (compile error
+/Users/rickywong/Documents/linkedin_hon/backend/app/views/connections/index.html.erb:23: syntax error, unexpected kNOT, expecting kTHEN or ':' or '\n' or ';'
+   if connection.pictureUrl is not nil 
+                                  ^
+/Users/rickywong/Documents/linkedin_hon/backend/app/views/connections/index.html.erb:46: syntax error, unexpected kENSURE, expecting $end):
+    20: <body>
+    21: 
+    22: <% @connections.each do |connection| %>
+    23:   <% if connection.pictureUrl is not nil %>
+    24: <!--
+    25:   <div data-role="page">
+    26: -->
+  app/views/connections/index.html.erb:46:in `compile'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (5.4ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 18:11:23 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (117.5ms)
+Completed 200 OK in 5575ms (Views: 132.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 18:11:29 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 18:11:29 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 18:11:29 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 18:11:29 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1&_=1322964690667" for 127.0.0.1 at Sat Dec 03 18:11:30 -0800 2011
+Served asset /jquery.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1&_=1322964690921" for 127.0.0.1 at Sat Dec 03 18:11:30 -0800 2011
+Served asset /jquery_ujs.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1&_=1322964690941" for 127.0.0.1 at Sat Dec 03 18:11:30 -0800 2011
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 18:55:13 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (10665.9ms)
+Completed 500 Internal Server Error in 16210ms
+
+ActionView::Template::Error (undefined local variable or method `connections' for #<#<Class:0x102435e88>:0x1024274c8>):
+    19: </head>
+    20: <body>
+    21: 
+    22: <% connections.length.times do |i| %>
+    23:   <% if !connections[i].pictureUrl.nil? %>
+    24:   <div data-role="page" id="<%=connections[i].id %>">
+    25:     <div data-role="header">
+  app/views/connections/index.html.erb:22:in `_app_views_connections_index_html_erb__656359549_2166409340'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (5.7ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 18:55:48 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (11218.5ms)
+Completed 500 Internal Server Error in 16538ms
+
+ActionView::Template::Error (undefined local variable or method `connections' for #<#<Class:0x101fdde08>:0x101fd6748>):
+    20: <body>
+    21: 
+    22: <% @connections.length.times do |i| %>
+    23:   <% if !connections[i].pictureUrl.nil? %>
+    24:   <div data-role="page" id="<%=connections[i].id %>">
+    25:     <div data-role="header">
+    26:       <p><%= connections[i].first_name %> <%= connections[i].last_name %></p>
+  app/views/connections/index.html.erb:23:in `_app_views_connections_index_html_erb__656359549_2164172580'
+  app/views/connections/index.html.erb:22:in `times'
+  app/views/connections/index.html.erb:22:in `_app_views_connections_index_html_erb__656359549_2164172580'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (5.9ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 18:56:34 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (253.8ms)
+Completed 200 OK in 5511ms (Views: 266.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 18:56:40 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 18:56:40 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 18:56:40 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 18:56:40 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 19:04:32 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (157.5ms)
+Completed 200 OK in 5541ms (Views: 250.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 19:09:36 -0800 2011
+
+SyntaxError (/Users/rickywong/Documents/linkedin_hon/backend/app/controllers/connections_controller.rb:4: syntax error, unexpected '|', expecting '}'
+       {|item| !item.pictureUrl.nil?}
+         ^
+/Users/rickywong/Documents/linkedin_hon/backend/app/controllers/connections_controller.rb:4: syntax error, unexpected '}', expecting kEND):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.3ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 19:09:43 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (153.9ms)
+Completed 200 OK in 5856ms (Views: 166.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 19:09:49 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 19:09:49 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 19:09:49 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 19:09:49 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 20:04:36 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (156.8ms)
+Completed 200 OK in 4997ms (Views: 169.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 20:04:41 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 20:04:41 -0800 2011
+Served asset /jquery.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 20:04:41 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 20:04:41 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 20:10:06 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (155.6ms)
+Completed 200 OK in 5584ms (Views: 168.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 20:10:11 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 20:10:11 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 20:10:11 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 20:10:12 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 20:12:16 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (281.4ms)
+Completed 200 OK in 6213ms (Views: 302.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 20:12:23 -0800 2011
+Served asset /jquery.js - 304 Not Modified (55ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 20:12:23 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 20:12:23 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 20:12:23 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 20:13:33 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (222.5ms)
+Completed 200 OK in 5659ms (Views: 235.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 20:13:39 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 20:13:39 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 20:13:39 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 20:13:39 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 20:14:37 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 20:20:17 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (229.4ms)
+Completed 200 OK in 6136ms (Views: 242.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 20:20:23 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 20:20:23 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 20:20:23 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 20:20:23 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 20:21:08 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (226.6ms)
+Completed 200 OK in 5401ms (Views: 237.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 20:21:14 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 20:21:14 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 20:21:14 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 20:21:14 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 20:24:29 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (244.4ms)
+Completed 200 OK in 7388ms (Views: 265.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 20:24:37 -0800 2011
+Served asset /jquery.js - 304 Not Modified (24ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 20:24:37 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (9ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 20:24:37 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 20:24:37 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 20:27:03 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Redirected to http://localhost:3000/session
+Completed 302 Found in 1ms
+
+
+Started GET "/session" for 127.0.0.1 at Sat Dec 03 20:27:03 -0800 2011
+  Processing by SessionsController#show as HTML
+Redirected to https://www.linkedin.com/uas/oauth/authorize?oauth_token=0fec9527-29bb-4499-8c2e-73d332b7e73e
+Completed 302 Found in 485ms
+
+
+Started GET "/session/callback?oauth_token=0fec9527-29bb-4499-8c2e-73d332b7e73e&oauth_verifier=92542" for 127.0.0.1 at Sat Dec 03 20:27:10 -0800 2011
+  Processing by SessionsController#callback as HTML
+  Parameters: {"oauth_verifier"=>"92542", "oauth_token"=>"0fec9527-29bb-4499-8c2e-73d332b7e73e"}
+Redirected to http://localhost:3000/connections
+Completed 302 Found in 183ms
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 20:27:10 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (149.3ms)
+Completed 200 OK in 5550ms (Views: 161.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 20:27:16 -0800 2011
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 20:27:16 -0800 2011
+Served asset /jquery_ujs.js - 200 OK (4ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 20:27:16 -0800 2011
+Served asset /jquery.js - 200 OK (4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 20:27:16 -0800 2011
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 20:32:18 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (222.7ms)
+Completed 200 OK in 5640ms (Views: 234.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 20:39:14 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (259.8ms)
+Completed 200 OK in 5669ms (Views: 280.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 20:39:20 -0800 2011
+Served asset /jquery.js - 304 Not Modified (10ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 20:39:20 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (7ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 20:39:20 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at Sat Dec 03 20:39:20 -0800 2011
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 20:53:50 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Redirected to http://localhost:3000/session
+Completed 302 Found in 1ms
+
+
+Started GET "/session" for 127.0.0.1 at Sat Dec 03 20:53:50 -0800 2011
+  Processing by SessionsController#show as HTML
+Redirected to https://www.linkedin.com/uas/oauth/authorize?oauth_token=befa340e-fc18-4858-8ae9-5f5294b686ee
+Completed 302 Found in 231ms
+
+
+Started GET "/session/callback?oauth_token=befa340e-fc18-4858-8ae9-5f5294b686ee&oauth_verifier=68980" for 127.0.0.1 at Sat Dec 03 20:53:56 -0800 2011
+  Processing by SessionsController#callback as HTML
+  Parameters: {"oauth_verifier"=>"68980", "oauth_token"=>"befa340e-fc18-4858-8ae9-5f5294b686ee"}
+Completed 500 Internal Server Error in 323ms
+
+ActiveRecord::StatementInvalid (Could not find table 'users'):
+  app/controllers/sessions_controller.rb:21:in `callback'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.8ms)
+  [1m[36m (0.0ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (2.8ms)[0m  CREATE TABLE "schema_migrations" ("version" varchar(255) NOT NULL) 
+  [1m[36m (0.1ms)[0m  [1mPRAGMA index_list("schema_migrations")[0m
+  [1m[35m (1.6ms)[0m  CREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")
+  [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
+Migrating to AddUserData (20111204013224)
+  [1m[35m (0.4ms)[0m  CREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "token" varchar(255), "secret" varchar(255), "linkedin_id" integer, "connection_id" integer, "created_at" datetime, "updated_at" datetime) 
+  [1m[36m (0.6ms)[0m  [1mCREATE TABLE "connections" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar(255), "first_name" varchar(255), "last_name" varchar(255), "small_url" varchar(255), "big_url" varchar(255), "linkedin_id" integer, "created_at" datetime, "updated_at" datetime) [0m
+  [1m[35m (0.1ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES ('20111204013224')
+  [1m[36m (0.1ms)[0m  [1mselect sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  SELECT "schema_migrations"."version" FROM "schema_migrations" 
+  [1m[36m (0.0ms)[0m  [1mPRAGMA index_list("connections")[0m
+  [1m[35m (0.0ms)[0m  PRAGMA index_list("users")
+
+
+Started GET "/session/callback?oauth_token=befa340e-fc18-4858-8ae9-5f5294b686ee&oauth_verifier=68980" for 127.0.0.1 at Sat Dec 03 20:54:33 -0800 2011
+  Processing by SessionsController#callback as HTML
+  Parameters: {"oauth_verifier"=>"68980", "oauth_token"=>"befa340e-fc18-4858-8ae9-5f5294b686ee"}
+Completed 500 Internal Server Error in 81ms
+
+OAuth::Problem (token_rejected):
+  app/controllers/sessions_controller.rb:13:in `callback'
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.4ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.1.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.9ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 20:54:37 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Redirected to http://localhost:3000/session
+Completed 302 Found in 1ms
+
+
+Started GET "/session" for 127.0.0.1 at Sat Dec 03 20:54:37 -0800 2011
+  Processing by SessionsController#show as HTML
+Redirected to https://www.linkedin.com/uas/oauth/authorize?oauth_token=befa340e-fc18-4858-8ae9-5f5294b686ee
+Completed 302 Found in 1ms
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 20:54:44 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Redirected to http://localhost:3000/session
+Completed 302 Found in 1ms
+
+
+Started GET "/session" for 127.0.0.1 at Sat Dec 03 20:54:44 -0800 2011
+  Processing by SessionsController#show as HTML
+Redirected to https://www.linkedin.com/uas/oauth/authorize?oauth_token=befa340e-fc18-4858-8ae9-5f5294b686ee
+Completed 302 Found in 1ms
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 20:55:06 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Redirected to http://localhost:3000/session
+Completed 302 Found in 1ms
+
+
+Started GET "/session" for 127.0.0.1 at Sat Dec 03 20:55:07 -0800 2011
+  Processing by SessionsController#show as HTML
+Redirected to https://www.linkedin.com/uas/oauth/authorize?oauth_token=ecd4021a-5180-49e9-87a9-27967f25aa80
+Completed 302 Found in 109ms
+
+
+Started GET "/session/callback?oauth_token=ecd4021a-5180-49e9-87a9-27967f25aa80&oauth_verifier=20384" for 127.0.0.1 at Sat Dec 03 20:55:42 -0800 2011
+  Processing by SessionsController#callback as HTML
+  Parameters: {"oauth_verifier"=>"20384", "oauth_token"=>"ecd4021a-5180-49e9-87a9-27967f25aa80"}
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT "users".* FROM "users" WHERE "users"."linkedin_id" = 4580081 LIMIT 1[0m
+  [1m[35m (0.2ms)[0m  SELECT 1 FROM "users" WHERE "users"."linkedin_id" = 4580081 LIMIT 1
+  [1m[36mSQL (21.1ms)[0m  [1mINSERT INTO "users" ("connection_id", "created_at", "linkedin_id", "secret", "token", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["connection_id", nil], ["created_at", Sun, 04 Dec 2011 04:55:42 UTC +00:00], ["linkedin_id", 4580081], ["secret", nil], ["token", nil], ["updated_at", Sun, 04 Dec 2011 04:55:42 UTC +00:00]]
+  [1m[35mConnection Load (0.2ms)[0m  SELECT "connections".* FROM "connections" WHERE "connections"."linkedin_id" = 4580081 LIMIT 1
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 4580081 LIMIT 1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:42 UTC +00:00], ["first_name", nil], ["last_name", nil], ["linkedin_id", 4580081], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:42 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE ("connections"."linkedin_id" = 4580081 AND "connections"."id" != 1) LIMIT 1[0m
+  [1m[35m (0.3ms)[0m  UPDATE "connections" SET "updated_at" = '2011-12-04 04:55:43.217861', "first_name" = 'Ricky', "last_name" = 'Wong' WHERE "connections"."id" = 1
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 11663943 LIMIT 1[0m
+  [1m[35mSQL (0.9ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Saskia"], ["last_name", "Aalders"], ["linkedin_id", 11663943], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 20948320 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Aamer"], ["last_name", "Abbas"], ["linkedin_id", 20948320], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 28103652 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Richard"], ["last_name", "Aberman"], ["linkedin_id", 28103652], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 22594817 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Mohamed"], ["last_name", "Abou-Alam"], ["linkedin_id", 22594817], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 68221311 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Omar"], ["last_name", "Abou-Alam"], ["linkedin_id", 68221311], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 29613440 LIMIT 1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Mourad"], ["last_name", "Aboubakr"], ["linkedin_id", 29613440], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 4785379 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Ajo"], ["last_name", "Abraham"], ["linkedin_id", 4785379], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 104730278 LIMIT 1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Majed"], ["last_name", "Abukhater, CFA"], ["linkedin_id", 104730278], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 11799594 LIMIT 1[0m
+  [1m[35mSQL (1.1ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Charles"], ["last_name", "Acknin"], ["linkedin_id", 11799594], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 5917086 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Tomas"], ["last_name", "Adcock"], ["linkedin_id", 5917086], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.7ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 7345552 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Nandini"], ["last_name", "Agarwal"], ["linkedin_id", 7345552], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 73542344 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Tushar"], ["last_name", "Agarwal"], ["linkedin_id", 73542344], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 986424 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Radhika"], ["last_name", "Aggarwal"], ["linkedin_id", 986424], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 5493265 LIMIT 1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Jay"], ["last_name", "Akkad"], ["linkedin_id", 5493265], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 10299256 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Bhavani"], ["last_name", "Akunuri"], ["linkedin_id", 10299256], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 6300828 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Travis"], ["last_name", "Alber"], ["linkedin_id", 6300828], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 13915503 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Manuel"], ["last_name", "Alcocer"], ["linkedin_id", 13915503], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 411032 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Scotty"], ["last_name", "Allen"], ["linkedin_id", 411032], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 31395770 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "alphan"], ["last_name", "altinok"], ["linkedin_id", 31395770], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 9773576 LIMIT 1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Saeed"], ["last_name", "Amidi"], ["linkedin_id", 9773576], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 59020259 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Stathis"], ["last_name", "Anagnostou"], ["linkedin_id", 59020259], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 262019 LIMIT 1[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Lakshmikanth"], ["last_name", "Ananth"], ["linkedin_id", 262019], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 5019353 LIMIT 1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Giuliana"], ["last_name", "Andrade"], ["linkedin_id", 5019353], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 58821527 LIMIT 1[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Ricardo"], ["last_name", "Andr\303\251"], ["linkedin_id", 58821527], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 49034778 LIMIT 1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Amy"], ["last_name", "Ang"], ["linkedin_id", 49034778], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 2708710 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Dony"], ["last_name", "Ang"], ["linkedin_id", 2708710], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 30963226 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Shane"], ["last_name", "Antos"], ["linkedin_id", 30963226], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 71523782 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Omas"], ["last_name", "Anwuri"], ["linkedin_id", 71523782], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 4600196 LIMIT 1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Prathyusha"], ["last_name", "Aragonda"], ["linkedin_id", 4600196], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 4595628 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Nikolai"], ["last_name", "Aristov"], ["linkedin_id", 4595628], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 11859967 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Abel"], ["last_name", "Ariza"], ["linkedin_id", 11859967], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 30542507 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Marco"], ["last_name", "Arosio"], ["linkedin_id", 30542507], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 487944 LIMIT 1[0m
+  [1m[35mSQL (1.3ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "JoAnn"], ["last_name", "Ashman"], ["linkedin_id", 487944], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 19051881 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Jaclyn"], ["last_name", "Asuncion"], ["linkedin_id", 19051881], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 22143666 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Jonathan"], ["last_name", "Au"], ["linkedin_id", 22143666], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 5530540 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Jennifer"], ["last_name", "Azapian"], ["linkedin_id", 5530540], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 144566065 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "azliza"], ["last_name", "azie"], ["linkedin_id", 144566065], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.7ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 86754346 LIMIT 1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Sayeed"], ["last_name", "Aziz"], ["linkedin_id", 86754346], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 43557577 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Mounir"], ["last_name", "Baalbaki"], ["linkedin_id", 43557577], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 10233858 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Sebastian"], ["last_name", "Badea"], ["linkedin_id", 10233858], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 21170129 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Laurent"], ["last_name", "BAI"], ["linkedin_id", 21170129], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 33714910 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Ed"], ["last_name", "Bailey"], ["linkedin_id", 33714910], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 1482889 LIMIT 1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Arun"], ["last_name", "Balaraman"], ["linkedin_id", 1482889], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 4873959 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Andrea"], ["last_name", "Baldini"], ["linkedin_id", 4873959], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 110307809 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Brandon"], ["last_name", "Ballinger"], ["linkedin_id", 110307809], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 275338 LIMIT 1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Ashok"], ["last_name", "Banerjee"], ["linkedin_id", 275338], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 16413995 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Joydeep"], ["last_name", "Banerjee"], ["linkedin_id", 16413995], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 11711875 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Gaurav"], ["last_name", "Bansal"], ["linkedin_id", 11711875], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 144464096 LIMIT 1[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Ricardo"], ["last_name", "Baptistuci Morbi"], ["linkedin_id", 144464096], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+  [1m[36m (0.2ms)[0m  [1mSELECT 1 FROM "connections" WHERE "connections"."linkedin_id" = 7898 LIMIT 1[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "connections" ("big_url", "created_at", "first_name", "last_name", "linkedin_id", "small_url", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["big_url", nil], ["created_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00], ["first_name", "Emre"], ["last_name", "Baran"], ["linkedin_id", 7898], ["small_url", nil], ["title", nil], ["updated_at", Sun, 04 Dec 2011 04:55:48 UTC +00:00]]
+Redirected to http://localhost:3000/connections
+Completed 302 Found in 6490ms
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 20:55:48 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (153.8ms)
+Completed 200 OK in 6819ms (Views: 183.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 20:55:55 -0800 2011
+Served asset /jquery.js - 200 OK (107ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 20:55:55 -0800 2011
+Served asset /jquery_ujs.js - 200 OK (5ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 20:55:56 -0800 2011
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/connections" for 127.0.0.1 at Sat Dec 03 21:00:37 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (181.2ms)
+Completed 200 OK in 5915ms (Views: 291.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:00:43 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:00:43 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:00:43 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:01:17 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (223.5ms)
+Completed 200 OK in 5892ms (Views: 252.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:01:23 -0800 2011
+Served asset /jquery.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:01:23 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (22ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:01:23 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:01:58 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (221.2ms)
+Completed 200 OK in 5806ms (Views: 232.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:02:04 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:02:04 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:02:04 -0800 2011
+Served asset /application.js - 304 Not Modified (3ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:02:25 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (152.8ms)
+Completed 200 OK in 2866ms (Views: 168.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:02:28 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:02:28 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:02:28 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:10:44 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (236.6ms)
+Completed 200 OK in 5587ms (Views: 248.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:10:49 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:10:49 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:10:49 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:10:50 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:10:50 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sat Dec 03 21:11:07 -0800 2011
+  Processing by ConnectionsController#index as HTML
+Rendered connections/index.html.erb within layouts/application (234.4ms)
+Completed 200 OK in 5737ms (Views: 247.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at Sat Dec 03 21:11:13 -0800 2011
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:11:13 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at Sat Dec 03 21:11:13 -0800 2011
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at Sat Dec 03 21:11:13 -0800 2011
+Served asset /jquery.js - 304 Not Modified (0ms)
