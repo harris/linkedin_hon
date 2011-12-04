@@ -5,3 +5,7 @@ img.statsImg {
 img.statsHeadlien {
    display: inline-block;
 }
+
+div.voteButtons {
+  font-size: 50%;
+}

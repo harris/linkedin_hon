@@ -33,19 +33,19 @@
 -->      
         
       <% end %>
-    </div>   
+    </div>
  
-<div data-role="controlgroup" data-type="horizontal">
-  <a href="#" data-role="button">1</a> 
-  <a href="#" data-role="button">2</a>
-  <a href="#" data-role="button">3</a>
-  <a href="#" data-role="button">4</a>
-  <a href="#" data-role="button">5</a>
-  <a href="#" data-role="button">6</a>
-  <a href="#" data-role="button">7</a>
-  <a href="#" data-role="button">8</a>
-  <a href="#" data-role="button">9</a> 
-  <a href="#" data-role="button">10</a> 
+<div data-role="controlgroup" data-type="horizontal" class="voteButtons">
+  <a data-vote='true' href="#" data-role="button">1</a> 
+  <a data-vote='true' href="#" data-role="button">2</a>
+  <a data-vote='true' href="#" data-role="button">3</a>
+  <a data-vote='true' href="#" data-role="button">4</a>
+  <a data-vote='true' href="#" data-role="button">5</a>
+  <a data-vote='true' href="#" data-role="button">6</a>
+  <a data-vote='true' href="#" data-role="button">7</a>
+  <a data-vote='true' href="#" data-role="button">8</a>
+  <a data-vote='true' href="#" data-role="button">9</a> 
+  <a data-vote='true' href="#" data-role="button">10</a> 
 </div>
 
       <img src="<%= @connections[i].pictureUrl %>" />
@@ -67,7 +67,12 @@
 <% end %>
 
 <script>
-  $('[data-profile="true"]').find('[data-role="content"]').live('tap click swipeleft', function() {
+  $('[data-vote="true"]').live('tap', function() {
+    score = $(this).text();
+    console.log(score);
+  });
+
+  $('[data-profile="true"]').find('[data-role="content"]').live('tap swipeleft', function() {
     if ($(this).parent().attr('data-next-id')) {
       $.mobile.changePage('#' + $(this).parent().attr('data-next-id'));
     }
