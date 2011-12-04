@@ -13,4 +13,7 @@ class ApplicationController < ActionController::Base
   def client 
     @client ||= LinkedIn::Client.new('921smhk051xk', '0r4kB7ouRfzBQhWm')    
   end
+  
+  
 end
+

@@ -7,5 +7,6 @@ Backend::Application.routes.draw do
   
   resources :connections
   resources :profiles
+  resources :scores
   root :to => 'profiles#index'
 end
