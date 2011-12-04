@@ -22,7 +22,7 @@ class User < ActiveRecord::Base
       begin 
           uri = URI(connection.site_standard_profile_request.url)    
           linkedin_id = /&key=(\d+)/.match(uri.query)[1]
-          if !connection.picture_url.nil? && !Connection.exists?(:linkedin_id => linkedin_id) 
+          if !connection.picture_url.blank? && !Connection.exists?(:linkedin_id => linkedin_id) 
             Connection.create!(:first_name => connection.first_name,
                                :last_name => connection.last_name,
                                :linkedin_id => linkedin_id,
