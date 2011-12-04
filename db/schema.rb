@@ -21,8 +21,8 @@ ActiveRecord::Schema.define(:version => 20111204013224) do
     t.string   "location"
     t.string   "country"
     t.integer  "linkedin_id"
-    t.integer  "total_score"
-    t.integer  "num_scores"
+    t.integer  "total_score", :default => 0
+    t.integer  "num_scores",  :default => 0
     t.datetime "created_at"
     t.datetime "updated_at"
   end
