@@ -11,17 +11,14 @@
       <% end %>
   >
     <div data-role="header">
-     <h4>See your own score and friends with</h4>
-     <a href="/sessions" data-role="none" class="ui-btn-right">
-      <img class="loginIcon" src="/assets/linkedin_signin.png"></img>
+     <h4>See how your friends are rated with</h4>
+     <a href="/session" data-role="none" data-ajax="false" class="ui-btn-right">
+       <img data-role="none" class="loginIcon" data-role="none"
+            src="/assets/linkedin_signin.png" ></img>
      </a>
-
-<!--
-      <p> <%= @connections[i].first_name %> <%= @connections[i].last_name %></p>
--->
     </div><!-- /header -->
 
-    <div data-role="content">
+   <div data-role="content">
 
     <div class="stats"
       <% if i > 0 %>
@@ -50,9 +47,8 @@
 
       <img src="<%= @connections[i].picture_url %>" />
     </div>
-<!--
-    <div data-role="footer">
 
+    <div data-role="footer">
       <% if i > 0 %>
         <a href="#<%= @connections[i-1].linkedin_id %>" data-role="button"
            data-inline="true">Prev</a>
@@ -62,7 +58,7 @@
          data-inline="true">Next</a>
       <% end %>
     </div>
--->
+
 
   </div>
 
