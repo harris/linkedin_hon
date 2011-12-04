@@ -16,7 +16,7 @@ class SessionsController < ApplicationController
     else
       $client.authorize_from_access(session[:atoken], session[:asecret])
     end
-    render :nothing => true
+    redirect_to connections_path
   end
 
 end
