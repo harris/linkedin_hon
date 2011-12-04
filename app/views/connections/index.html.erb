@@ -34,13 +34,13 @@
 <% end %>
 
 <script>
-  $('[data-profile="true"]').live('tap click swipeLeft', function() {
+  $('[data-profile="true"]').live('tap click swipeleft', function() {
     if ($(this).attr('data-next-id')) {
       $.mobile.changePage('#' + $(this).attr('data-next-id'));
     }
   });
 
-  $('[data-profile="true"]').live('swipeRight', function() {
+  $('[data-profile="true"]').live('swiperight', function() {
     if ($(this).attr('data-prev-id')) {
       $.mobile.changePage('#' + $(this).attr('data-prev-id'));
     }
