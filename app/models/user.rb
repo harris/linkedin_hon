@@ -17,13 +17,16 @@ class User < ActiveRecord::Base
     connection.update_attributes!(:first_name => client.profile.first_name, :last_name => client.profile.last_name)
     client.connections.all[0..50].each do |connection|  
       begin 
+        p connection
           uri = URI(connection.site_standard_profile_request.url)    
           linkedin_id = /&key=(\d+)/.match(uri.query)[1]
           unless Connection.exists?(:linkedin_id => linkedin_id)
             Connection.create!(:first_name => connection.first_name,
                                :last_name => connection.last_name,
                                :linkedin_id => linkedin_id,
+                               :title => connection.headline,
                                :picture_url => connection.picture_url,
+                               :industry => connection.industry,
                                :location => connection.location.name,
                                :country => connection.location.country.code)        
           end
