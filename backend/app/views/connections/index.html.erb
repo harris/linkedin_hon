@@ -1,7 +1,14 @@
 
 <% @connections.length.times do |i| %>
   <% if !@connections[i].pictureUrl.nil? %>
-  <div data-role="page" id="<%=@connections[i].id %>">
+  <div data-role="page" id="<%=@connections[i].id %>"
+      <% if i > 0 %>
+        data-prev-id="<%= @connections[i-1].id %>"
+      <% end %>
+      <% if i < @connections.length - 1 %>
+        data-next-id="<%= @connections[i-1].id %>"
+      <% end %>
+  >
     <div data-role="header">
       <p> <%= @connections[i].first_name %> <%= @connections[i].last_name %></p>
     </div><!-- /header -->
