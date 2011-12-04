@@ -21,6 +21,16 @@ ActiveRecord::Schema.define(:version => 20111204013224) do
     t.string   "location"
     t.string   "country"
     t.integer  "linkedin_id"
+    t.integer  "total_score"
+    t.integer  "num_scores"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "scores", :force => true do |t|
+    t.integer  "user_id"
+    t.integer  "connection_id"
+    t.integer  "score"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
