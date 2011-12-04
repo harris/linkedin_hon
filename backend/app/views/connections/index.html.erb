@@ -5,7 +5,6 @@
  
 <div data-role="content">
   <ul data-role="listview">
-	<%= @all_names.join(",") %>
     <% @all_names.each do |name| %>
     <li>
       <%= link_to name, "http://www.google.com" %>
