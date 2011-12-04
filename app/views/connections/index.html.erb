@@ -70,19 +70,29 @@
   $('[data-vote="true"]').live('tap', function() {
     score = $(this).text();
     console.log(score);
-  });
 
-  $('[data-profile="true"]').find('[data-role="content"]').live('tap swipeleft', function() {
-    if ($(this).parent().attr('data-next-id')) {
-      $.mobile.changePage('#' + $(this).parent().attr('data-next-id'));
+    if ($(this).parents('[data-role="page"]').attr('data-next-id')) {
+      $.mobile.changePage('#' + $(this).parents('[data-role="page"]').attr(
+        'data-next-id'));
     }
   });
 
+/*
+  $('[data-profile="true"]').find('[data-role="content"]').live('tap swipeleft', function() {
+    if ($(this).parents('[data-role="page"]').attr('data-next-id')) {
+      $.mobile.changePage('#' + $(this).parents('[data-role="page"]').attr(
+        'data-next-id'));
+    }
+  });
+*/
+/*
   $('[data-profile="true"]').find('[data-role="content"]').live(
     'swiperight', function() {
-    if ($(this).parent().attr('data-prev-id')) {
-      $.mobile.changePage('#' + $(this).parent().attr('data-prev-id'), {reverse: true});
+    if ($(this).parents('[data-role="page"]').attr('data-prev-id')) {
+      $.mobile.changePage('#' + $(this).parents('[data-role="page"]').attr('data-prev-id'), {reverse: true});
     }
   });
+*/
+
 </script>
 
