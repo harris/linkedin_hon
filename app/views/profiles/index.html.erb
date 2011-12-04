@@ -43,7 +43,7 @@
     >
       <% if i > 0 %>
       <img class="statsImg" src="<%= @connections[i-1].picture_url %>" />
-      <b data-score="true"></b>
+      <b class="score" data-score="true"></b>
       <b class="statsHeadline"> <%=@connections[i-1].title%></b>
       <i class="statsHeadline">, <%= @connections[i-1].industry %></i>
       <% end %>
@@ -94,7 +94,7 @@
     page = $(this).parents('[data-role="page"]');
     total_score = parseInt(page.attr('data-total-score')) + parseInt(score);
     num_scores = parseInt(page.attr('data-num-scores')) + 1;
-    
+ 
     page.attr('data-total-score', total_score);
     page.attr('data-num-scores', num_scores);
 
