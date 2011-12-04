@@ -24,6 +24,10 @@ group :production do
   gem 'therubyracer-heroku',  '0.8.1.pre3'
 end
 
+
+gem 'thin'
+gem 'delayed_job'
+gem 'delayed_job_active_record'
 gem 'jquery-rails'
 
 # To use ActiveModel has_secure_password
