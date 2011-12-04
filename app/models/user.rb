@@ -36,5 +36,8 @@ class User < ActiveRecord::Base
       end
     end    
   end
+  
+  handle_asynchronously :import_connections
+  
     
 end
