@@ -77,10 +77,7 @@
     page = $(this).parents('[data-role="page"]');
     total_score = parseInt(page.attr('data-total-score')) + parseInt(score);
     num_scores = parseInt(page.attr('data-num-scores')) + 1;
-
-    console.log(total_score);
-    console.log(num_scores);
-
+    
     page.attr('data-total-score', total_score);
     page.attr('data-num-scores', num_scores);
 
@@ -95,14 +92,12 @@
         (total_score / num_scores).toFixed(1));
 
       $.mobile.changePage('#' + nextId);
-      console.debug(currentIndex)
-      if (currentIndex === "7") { 
-        <% if logged_in? %>
-          window.location = '<%= "http://#{request.host_with_port}/profiles" %>';
-        <% else %>
-          $('#continuePopup').click();
-        <% end %>
-      }
+    } else { 
+      <% if logged_in? %>
+        window.location = '<%= "http://#{request.host_with_port}/profiles" %>';
+      <% else %>
+        $('#continuePopup').click();
+      <% end %>
     }
   });
 
