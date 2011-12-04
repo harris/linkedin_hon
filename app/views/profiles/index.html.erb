@@ -25,10 +25,11 @@
             src="/assets/linkedin_signin.png" ></img>
      </a>
      <% else %>
-     <a href="/session" data-role="none" data-ajax="false" class="ui-btn-right login">
-       Hello, <%= current_user.connection.first_name %><%= link_to "Logout", delete_session_path %>
-     </a>
-     
+     <p class="ui-btn-right logout">
+         Hello, <%= current_user.connection.first_name %>
+       <%= link_to "Logout", delete_session_path %>
+     </p> 
+
      <% end %>
      </p>
 
@@ -111,8 +112,12 @@
       console.log('no upsell page ' + nextId);
       $.mobile.changePage('#' + nextId);
     } else { 
-      console.log('upsell page');
-      $.mobile.changePage('#upsellPage', {transition: 'pop', role: 'dialog'});
+      <% if logged_in? %>
+        window.location = '<%= "http://#{request.host_with_port}/profiles" %>';
+      <% else %>
+        console.log('upsell page');
+        $.mobile.changePage('#upsellPage', {transition: 'pop', role: 'dialog'});
+      <% end %>
     }
   });
 

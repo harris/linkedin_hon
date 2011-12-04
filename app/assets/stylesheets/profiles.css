@@ -29,3 +29,8 @@ a.login {
   text-decoration:none;
   color: white;
 }
+
+p.logout {
+  text-decoration:none;
+  color: white;
+}
