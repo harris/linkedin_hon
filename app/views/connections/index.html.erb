@@ -14,6 +14,19 @@
       <p> <%= @connections[i].first_name %> <%= @connections[i].last_name %></p>
     </div><!-- /header -->
 
+<div data-role="controlgroup"  data-type="horizontal">
+  <a href="#ndex.html" data-role="button">1</a>
+  <a href="#ndex.html" data-role="button">2</a>
+  <a href="#ndex.html" data-role="button">3</a>
+  <a href="#ndex.html" data-role="button">4</a>
+  <a href="#ndex.html" data-role="button">5</a>
+  <a href="#ndex.html" data-role="button">6</a>
+  <a href="#ndex.html" data-role="button">7</a>
+  <a href="#ndex.html" data-role="button">8</a>
+  <a href="#ndex.html" data-role="button">9</a>
+  <a href="#ndex.html" data-role="button">10</a>
+</div>
+
     <div data-role="content">
       <img src="<%= @connections[i].pictureUrl %>" />
     </div>
@@ -34,15 +47,15 @@
 <% end %>
 
 <script>
-  $('[data-profile="true"]').live('tap click swipeLeft', function() {
+  $('[data-profile="true"]').live('tap click swipeleft', function() {
     if ($(this).attr('data-next-id')) {
       $.mobile.changePage('#' + $(this).attr('data-next-id'));
     }
   });
 
-  $('[data-profile="true"]').live('swipeRight', function() {
+  $('[data-profile="true"]').live('swiperight', function() {
     if ($(this).attr('data-prev-id')) {
-      $.mobile.changePage('#' + $(this).attr('data-prev-id'));
+      $.mobile.changePage('#' + $(this).attr('data-prev-id'), {reverse: true});
     }
   });
 </script>
