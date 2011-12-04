@@ -2,32 +2,52 @@
 <% @connections.length.times do |i| %>
   <% if !@connections[i].pictureUrl.nil? %>
   <div data-role="page" id="<%=@connections[i].id %>"
+       data-profile="true"
       <% if i > 0 %>
         data-prev-id="<%= @connections[i-1].id %>"
       <% end %>
       <% if i < @connections.length - 1 %>
         data-next-id="<%= @connections[i+1].id %>"
       <% end %>
-     data-profile="true"
   >
     <div data-role="header">
       <p> <%= @connections[i].first_name %> <%= @connections[i].last_name %></p>
     </div><!-- /header -->
 
-<div data-role="controlgroup"  data-type="horizontal">
-  <a href="#ndex.html" data-role="button">1</a>
-  <a href="#ndex.html" data-role="button">2</a>
-  <a href="#ndex.html" data-role="button">3</a>
-  <a href="#ndex.html" data-role="button">4</a>
-  <a href="#ndex.html" data-role="button">5</a>
-  <a href="#ndex.html" data-role="button">6</a>
-  <a href="#ndex.html" data-role="button">7</a>
-  <a href="#ndex.html" data-role="button">8</a>
-  <a href="#ndex.html" data-role="button">9</a>
-  <a href="#ndex.html" data-role="button">10</a>
+    <div data-role="content">
+
+    <div class="stats"
+      <% if i > 0 %>
+      id="stats<%= @connections[i-1].id %>"
+      <% end %>
+    >
+      <% if i > 0 %>
+      <img class="statsImg" src="<%= @connections[i-1].pictureUrl %>" />
+      <b class="statsHeadline"> <%= @connections[i-1].headline %></b>
+      <p class="statsHeadline"> <%= @connections[i-1].industry %></p>
+<!--
+      <i class="statsHeadline"> <%= @connections[i-1].industry %></i>
+      <p class="statsHeadline"> <%= @connections[i-1].summary %></p>      <p class="statsHeadline"> <%= @connections[i-1].siteStandardProfileRequest
+ %></p>        <p class="statsHeadline"> <%= @connections[i-1].apiStandardProfileRequest 
+%></p>    
+-->      
+        
+      <% end %>
+    </div>
+ 
+<div data-role="controlgroup" data-type="horizontal" class="voteButtons">
+  <a data-vote='true' href="#" data-role="button">1</a> 
+  <a data-vote='true' href="#" data-role="button">2</a>
+  <a data-vote='true' href="#" data-role="button">3</a>
+  <a data-vote='true' href="#" data-role="button">4</a>
+  <a data-vote='true' href="#" data-role="button">5</a>
+  <a data-vote='true' href="#" data-role="button">6</a>
+  <a data-vote='true' href="#" data-role="button">7</a>
+  <a data-vote='true' href="#" data-role="button">8</a>
+  <a data-vote='true' href="#" data-role="button">9</a> 
+  <a data-vote='true' href="#" data-role="button">10</a> 
 </div>
 
-    <div data-role="content">
       <img src="<%= @connections[i].pictureUrl %>" />
     </div>
 
@@ -47,15 +67,21 @@
 <% end %>
 
 <script>
-  $('[data-profile="true"]').live('tap click swipeleft', function() {
-    if ($(this).attr('data-next-id')) {
-      $.mobile.changePage('#' + $(this).attr('data-next-id'));
+  $('[data-vote="true"]').live('tap', function() {
+    score = $(this).text();
+    console.log(score);
+  });
+
+  $('[data-profile="true"]').find('[data-role="content"]').live('tap swipeleft', function() {
+    if ($(this).parent().attr('data-next-id')) {
+      $.mobile.changePage('#' + $(this).parent().attr('data-next-id'));
     }
   });
 
-  $('[data-profile="true"]').live('swiperight', function() {
-    if ($(this).attr('data-prev-id')) {
-      $.mobile.changePage('#' + $(this).attr('data-prev-id'), {reverse: true});
+  $('[data-profile="true"]').find('[data-role="content"]').live(
+    'swiperight', function() {
+    if ($(this).parent().attr('data-prev-id')) {
+      $.mobile.changePage('#' + $(this).parent().attr('data-prev-id'), {reverse: true});
     }
   });
 </script>
