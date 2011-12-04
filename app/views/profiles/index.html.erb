@@ -11,7 +11,12 @@
       <% end %>
   >
     <div data-role="header">
+      <a href="#">
+      <img class="loginIcon" src="/assets/linkedin_signin.png"></img>
+      </a>
+<!--
       <p> <%= @connections[i].first_name %> <%= @connections[i].last_name %></p>
+-->
     </div><!-- /header -->
 
     <div data-role="content">
@@ -68,7 +73,7 @@
       var nextId = $(this).parents('[data-role="page"]').attr('data-next-id');
       console.log($('#' + nextId).length);
       console.log('#' + nextId);
-      jQuery.get('/scores/', {linkedin_id: nextId, score: score}); 
+      jQuery.get('/scores', {linkedin_id: nextId, score: score}); 
       // current_user.rate(params[:linkedin_id], params[:score].to_i)
 
       $.mobile.changePage('#' + nextId);
