@@ -12,11 +12,17 @@
       data-numl-scores="<%=@connections[i].num_scores%>"
   >
     <div data-role="header">
-     <h4>See how your friends are rated with</h4>
-     <a href="/session" data-role="none" data-ajax="false" class="ui-btn-right">
-       <img data-role="none" class="loginIcon" data-role="none"
+     <h2 style="text-align:left; margin-left:10px;">
+      Hot or Not (Linkedin Edition)
+     </h2>
+
+     <p>
+     <a href="/session" data-role="none" data-ajax="false" class="ui-btn-right login">
+       See friends ratings with &nbsp; <img data-role="none" class="loginIcon" data-role="none"
             src="/assets/linkedin_signin.png" ></img>
      </a>
+     </p>
+
     </div><!-- /header -->
 
    <div data-role="content">
@@ -47,7 +53,7 @@
   <a data-vote='true' href="#" data-role="button">10</a> 
 </div>
 
-      <img src="<%= @connections[i].picture_url %>" />
+      <img class="profile" src="<%= @connections[i].picture_url %>" />
     </div>
 
     <div data-role="footer">

@@ -6,10 +6,19 @@ img.statsHeadlien {
    display: inline-block;
 }
 
+img.profile {
+  width: 100px;
+}
+
 div.voteButtons {
   font-size: 100%;
 }
 
 div.stats {
   border: 1px;
+}
+
+a.login {
+  text-decoration:none;
+  color: white;
 }
