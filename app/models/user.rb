@@ -16,9 +16,16 @@ class User < ActiveRecord::Base
     
   def import_connections(client)
     connection = Connection.find_or_create_by_linkedin_id(self.linkedin_id)
-    connection.update_attributes!(:first_name => client.profile.first_name, :last_name => client.profile.last_name)
+    profile = client.profile(:fields => [:first_name, :last_name, :picture_url, :headline, :location, :industry])
+    connection.update_attributes!(:first_name => profile.first_name,
+                                  :last_name => profile.last_name,
+                                  :title => profile.headline,
+                                  :picture_url => profile.picture_url,
+                                  :industry => profile.industry,
+                                  :location => profile.location.name,
+                                  :country => profile.location.country.code)        
     self.update_attributes!(:connection_id => connection.id)
-    client.connections.all[0..50].each do |connection|  
+    client.connections.all[0..100].each do |connection|  
       begin 
           uri = URI(connection.site_standard_profile_request.url)    
           linkedin_id = /&key=(\d+)/.match(uri.query)[1]
