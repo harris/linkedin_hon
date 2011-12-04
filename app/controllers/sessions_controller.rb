@@ -24,5 +24,10 @@ class SessionsController < ApplicationController
     session[:user_id] = user.id
     redirect_to profiles_path    
   end
+  
+  def delete
+    reset_session
+    redirect_to profiles_path
+  end
 
 end

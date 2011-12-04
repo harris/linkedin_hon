@@ -25,6 +25,11 @@
        See friends ratings with &nbsp; <img data-role="none" class="loginIcon" data-role="none"
             src="/assets/linkedin_signin.png" ></img>
      </a>
+     <% else %>
+     <a href="/session" data-role="none" data-ajax="false" class="ui-btn-right login">
+       Hello, <%= current_user.connection.first_name %><%= link_to "Logout", delete_session_path %>
+     </a>
+     
      <% end %>
      </p>
 

@@ -17,6 +17,7 @@ class User < ActiveRecord::Base
   def import_connections(client)
     connection = Connection.find_or_create_by_linkedin_id(self.linkedin_id)
     connection.update_attributes!(:first_name => client.profile.first_name, :last_name => client.profile.last_name)
+    self.update_attributes!(:connection_id => connection.id)
     client.connections.all[0..50].each do |connection|  
       begin 
           uri = URI(connection.site_standard_profile_request.url)    
