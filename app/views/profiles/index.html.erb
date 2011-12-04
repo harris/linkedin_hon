@@ -67,6 +67,8 @@
 <% end %>
 
 <script>
+  var t = setTimeout("$.mobile.hidePageLoadingMsg()", 500);
+
   $('[data-vote="true"]').live('tap', function() {
     console.log('vote');
     score = $(this).text();
@@ -77,22 +79,22 @@
     }
   });
 
-/*
+
   $('[data-profile="true"]').find('[data-role="content"]').live('tap swipeleft', function() {
     if ($(this).parents('[data-role="page"]').attr('data-next-id')) {
       $.mobile.changePage('#' + $(this).parents('[data-role="page"]').attr(
         'data-next-id'));
     }
   });
-*/
-/*
+
+
   $('[data-profile="true"]').find('[data-role="content"]').live(
     'swiperight', function() {
     if ($(this).parents('[data-role="page"]').attr('data-prev-id')) {
       $.mobile.changePage('#' + $(this).parents('[data-role="page"]').attr('data-prev-id'), {reverse: true});
     }
   });
-*/
+
 
 </script>
 
