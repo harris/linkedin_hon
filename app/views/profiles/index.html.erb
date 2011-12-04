@@ -1,7 +1,7 @@
 
 <% @connections.length.times do |i| %>
   <% if !@connections[i].picture_url.nil? %>
-  <div data-role="page" id="<%=@connections[i].linkedin_id %>"
+  <div data-role="page" id="c<%=@connections[i].linkedin_id %>"
        data-profile="true"
       <% if i > 0 %>
         data-prev-id="<%= @connections[i-1].linkedin_id %>"
@@ -46,11 +46,11 @@
 
     <div data-role="footer">
       <% if i > 0 %>
-        <a href="#<%= @connections[i-1].linkedin_id %>" data-role="button"
+        <a href="#c<%= @connections[i-1].linkedin_id %>" data-role="button"
            data-inline="true">Prev</a>
       <% end %>
       <% if i < @connections.length - 1 %>
-      <a href="#<%= @connections[i+1].linkedin_id %>" data-role="button"
+      <a href="#c<%= @connections[i+1].linkedin_id %>" data-role="button"
          data-inline="true">Next</a>
       <% end %>
     </div>
