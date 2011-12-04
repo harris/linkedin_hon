@@ -10,7 +10,7 @@
         data-next-id="c<%= @connections[i+1].linkedin_id %>"
       <% end %>
       data-total-score="<%=@connections[i].total_score%>"
-      data-numl-scores="<%=@connections[i].num_scores%>"
+      data-num-scores="<%=@connections[i].num_scores %>"
   >
     <div data-role="header">
      <h2 style="text-align:left; margin-left:10px;">
@@ -24,6 +24,11 @@
        See friends ratings with &nbsp; <img data-role="none" class="loginIcon" data-role="none"
             src="/assets/linkedin_signin.png" ></img>
      </a>
+     <% else %>
+     <a href="/session" data-role="none" data-ajax="false" class="ui-btn-right login">
+       Hello, <%= current_user.connection.first_name %><%= link_to "Logout", delete_session_path %>
+     </a>
+     
      <% end %>
      </p>
 

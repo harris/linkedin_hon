@@ -1,7 +1,5 @@
 class ApplicationController < ActionController::Base
-  protect_from_forgery
-  # before_filter :login_required
-  helper_method :logged_in?
+  helper_method :logged_in?, :current_user
   
   def login_required
     if !logged_in?
@@ -13,6 +11,10 @@ class ApplicationController < ActionController::Base
   
   def logged_in?
     !session[:user_id].nil?
+  end
+  
+  def current_user
+    @current_user ||= User.find_by_id(session[:user_id])
   end
   
   def client 
