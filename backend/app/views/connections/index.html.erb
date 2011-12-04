@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.css" />
+<script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.0/jquery.mobile-1.0.min.js"></script>
+
+<script>
+  function createRater(name, profile_img) {
+    var div = $('div');
+     
+  }
+</script>
+
+<head>
+  <title>Backend</title>
+  <%= stylesheet_link_tag    "application" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<% @connections.length.times do |i| %>
+  <% if !@connections[i].pictureUrl.nil? %>
+  <div data-role="page" id="<%=@connections[i].id %>">
+    <div data-role="header">
+      <p> <%= @connections[i].first_name %> <%= @connections[i].last_name %></p>
+    </div><!-- /header -->
+
+    <div data-role="content">
+      <img src="<%= @connections[i].pictureUrl %>" />
+      <p><%= @connections[i].last_name %></p>
+    </div>
+ 
+    <div data-role="footer">
+      <% if i > 0 %>
+        <a href="#<%= @connections[i-1].id %>" data-role="button"
+           data-inline="true">Prev</a>
+      <% end %>
+      <% if i < @connections.length - 1 %>
+      <a href="#<%= @connections[i+1].id %>" data-role="button"
+         data-inline="true">Next</a>
+      <% end %>
+    </div>
+  </div>
+
+  <% end %>
+<% end %>
+
+</body>
+</html>
