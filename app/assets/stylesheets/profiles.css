@@ -9,3 +9,7 @@ img.statsHeadlien {
 div.voteButtons {
   font-size: 100%;
 }
+
+div.stats {
+  border: 1px;
+}

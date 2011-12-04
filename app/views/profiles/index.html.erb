@@ -8,6 +8,8 @@
       <% if i < @connections.length - 1 %>
         data-next-id="c<%= @connections[i+1].linkedin_id %>"
       <% end %>
+      data-total-score="<%=@connections[i].total_score%>"
+      data-numl-scores="<%=@connections[i].num_scores%>"
   >
     <div data-role="header">
      <h4>See how your friends are rated with</h4>
@@ -26,8 +28,9 @@
     >
       <% if i > 0 %>
       <img class="statsImg" src="<%= @connections[i-1].picture_url %>" />
+      <b data-score="true"></b>
       <b class="statsHeadline"> <%= @connections[i-1].title %></b>
-      <p class="statsHeadline"> <%= @connections[i-1].industry %></p>
+      <i class="statsHeadline">, <%= @connections[i-1].industry %></i>
       <% end %>
     </div>
  
@@ -72,13 +75,32 @@
   $('[data-vote="true"]').live('tap', function() {
     console.log('vote');
     score = $(this).text();
-    if ($(this).parents('[data-role="page"]').attr('data-next-id')) {
-      var nextId = $(this).parents('[data-role="page"]').attr('data-next-id');
+
+    page = $(this).parents('[data-role="page"]');
+    total_score = parseInt(page.attr('data-total-score')) + parseInt(score);
+    num_scores = parseInt(page.attr('data-num-scores')) + 1;
+
+    console.log(total_score);
+    console.log(num_scores);
+
+    page.attr('data-total-score', total_score);
+    page.attr('data-num-scores', num_scores);
+
+    if (page.attr('data-next-id')) {
+      var nextId = page.attr('data-next-id');
       jQuery.post('/scores', {linkedin_id: nextId, score: score}); 
+ 
+      next = $('#' + nextId);
+      console.log(total_score);
+      console.log(num_scores);
+      next.find('[data-score="true"]').text(
+        (total_score / num_scores).toFixed(1));
+
       $.mobile.changePage('#' + nextId);
     }
   });
 
+<!--
 
   $('[data-profile="true"]').find('[data-role="content"]').live('tap swipeleft', function() {
     if ($(this).parents('[data-role="page"]').attr('data-next-id')) {
@@ -94,7 +116,7 @@
       $.mobile.changePage('#' + $(this).parents('[data-role="page"]').attr('data-prev-id'), {reverse: true});
     }
   });
-
+-->
 
 </script>
 
