@@ -42,7 +42,7 @@
 
   $('[data-profile="true"]').live('swiperight', function() {
     if ($(this).attr('data-prev-id')) {
-      $.mobile.changePage('#' + $(this).attr('data-prev-id'));
+      $.mobile.changePage('#' + $(this).attr('data-prev-id'), {reverse: true});
     }
   });
 </script>
