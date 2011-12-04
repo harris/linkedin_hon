@@ -13,7 +13,7 @@
   >
     <div data-role="header">
      <h2 style="text-align:left; margin-left:10px;">
-      Hot or Not (Linkedin Edition)
+      Hot or Not (Professional Edition)
      </h2>
 
      <p>
@@ -35,7 +35,7 @@
       <% if i > 0 %>
       <img class="statsImg" src="<%= @connections[i-1].picture_url %>" />
       <b data-score="true"></b>
-      <b class="statsHeadline"> <%= @connections[i-1].title %></b>
+      <b class="statsHeadline"> <%=@connections[i-1].title%></b>
       <i class="statsHeadline">, <%= @connections[i-1].industry %></i>
       <% end %>
     </div>
