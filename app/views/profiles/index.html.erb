@@ -65,11 +65,13 @@
     console.log(score);
 
     if ($(this).parents('[data-role="page"]').attr('data-next-id')) {
-      var nextId = '#' + $(this).parents('[data-role="page"]').attr('data-next-id');
-      console.log($(nextId).length);
-      console.log(nextId);
+      var nextId = $(this).parents('[data-role="page"]').attr('data-next-id');
+      console.log($('#' + nextId).length);
+      console.log('#' + nextId);
+      jQuery.get('/scores/', {linkedin_id: nextId, score: score}); 
+      // current_user.rate(params[:linkedin_id], params[:score].to_i)
 
-      $.mobile.changePage(nextId);
+      $.mobile.changePage('#' + nextId);
     }
   });
 
