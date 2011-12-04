@@ -4,10 +4,10 @@
   <div data-role="page" id="c<%=@connections[i].linkedin_id %>"
        data-profile="true"
       <% if i > 0 %>
-        data-prev-id="<%= @connections[i-1].linkedin_id %>"
+        data-prev-id="c<%= @connections[i-1].linkedin_id %>"
       <% end %>
       <% if i < @connections.length - 1 %>
-        data-next-id="<%= @connections[i+1].linkedin_id %>"
+        data-next-id="c<%= @connections[i+1].linkedin_id %>"
       <% end %>
   >
     <div data-role="header">
@@ -66,15 +66,9 @@
 <script>
   $('[data-vote="true"]').live('tap', function() {
     score = $(this).text();
-    console.log(score);
-
     if ($(this).parents('[data-role="page"]').attr('data-next-id')) {
       var nextId = $(this).parents('[data-role="page"]').attr('data-next-id');
-      console.log($('#' + nextId).length);
-      console.log('#' + nextId);
-      jQuery.get('/scores', {linkedin_id: nextId, score: score}); 
-      // current_user.rate(params[:linkedin_id], params[:score].to_i)
-
+      jQuery.post('/scores', {linkedin_id: nextId, score: score}); 
       $.mobile.changePage('#' + nextId);
     }
   });
