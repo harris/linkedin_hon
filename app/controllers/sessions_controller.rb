@@ -22,7 +22,7 @@ class SessionsController < ApplicationController
       user = User.create!(:linkedin_id => linkedin_id) 
       user.import_connections(client)
     end
-    redirect_to connections_path    
+    redirect_to profiles_path    
   end
 
 end

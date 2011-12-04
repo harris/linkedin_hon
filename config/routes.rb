@@ -6,5 +6,6 @@ Backend::Application.routes.draw do
   end
   
   resources :connections
-  root :to => 'connections#index'
+  resources :profiles
+  root :to => 'profiles#index'
 end
