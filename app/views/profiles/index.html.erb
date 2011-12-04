@@ -10,15 +10,24 @@
       <% if i < @connections.length - 1 %>
         data-next-id="c<%= @connections[i+1].linkedin_id %>"
       <% end %>
+      data-total-score="<%=@connections[i].total_score%>"
+      data-numl-scores="<%=@connections[i].num_scores%>"
   >
     <div data-role="header">
-     <h4>See how your friends are rated with</h4>
-     <% if !logged_in? %>
-       <a href="/session" data-role="none" data-ajax="false" class="ui-btn-right">
-         <img data-role="none" class="loginIcon" data-role="none"
-              src="/assets/linkedin_signin.png" ></img>
-       </a>
-      <% end %>
+     <h2 style="text-align:left; margin-left:10px;">
+      Hot or Not (Linkedin Edition)
+     </h2>
+
+     <p>
+       <% if !logged_in? %>
+       
+     <a href="/session" data-role="none" data-ajax="false" class="ui-btn-right login">
+       See friends ratings with &nbsp; <img data-role="none" class="loginIcon" data-role="none"
+            src="/assets/linkedin_signin.png" ></img>
+     </a>
+     <% end %>
+     </p>
+
     </div><!-- /header -->
 
    <div data-role="content">
@@ -30,8 +39,9 @@
     >
       <% if i > 0 %>
       <img class="statsImg" src="<%= @connections[i-1].picture_url %>" />
+      <b data-score="true"></b>
       <b class="statsHeadline"> <%= @connections[i-1].title %></b>
-      <p class="statsHeadline"> <%= @connections[i-1].industry %></p>
+      <i class="statsHeadline">, <%= @connections[i-1].industry %></i>
       <% end %>
     </div>
  
@@ -48,7 +58,7 @@
   <a data-vote='true' href="#" data-role="button">10</a> 
 </div>
 
-      <img src="<%= @connections[i].picture_url %>" />
+      <img class="profile" src="<%= @connections[i].picture_url %>" />
     </div>
 
     <div data-role="footer">
@@ -59,18 +69,36 @@
 <% end %>
 
 <script>
+  var t = setTimeout("$.mobile.hidePageLoadingMsg()", 500);
+
   $('[data-vote="true"]').live('tap', function() {
     score = $(this).text();
-    if ($(this).parents('[data-role="page"]').attr('data-next-id')) {
-      var currentId = $(this).parents('[data-role="page"]').attr('data-current-id');
-      var nextId = $(this).parents('[data-role="page"]').attr('data-next-id');
-      var currentIndex = $(this).parents('[data-role="page"]').attr('data-index');
-      
-      jQuery.post('/scores', {linkedin_id: currentId, score: score}); 
+
+    page = $(this).parents('[data-role="page"]');
+    total_score = parseInt(page.attr('data-total-score')) + parseInt(score);
+    num_scores = parseInt(page.attr('data-num-scores')) + 1;
+
+    console.log(total_score);
+    console.log(num_scores);
+
+    page.attr('data-total-score', total_score);
+    page.attr('data-num-scores', num_scores);
+
+    var currentId = page.attr('data-current-id');
+    jQuery.post('/scores', {linkedin_id: currentId, score: score}); 
+
+    if (page.attr('data-next-id')) {
+      var nextId = page.attr('data-next-id');
+      var currentIndex = page.attr('data-index');
+      next = $('#' + nextId);
+      next.find('[data-score="true"]').text(
+        (total_score / num_scores).toFixed(1));
+
       $.mobile.changePage('#' + nextId);
+      console.debug(currentIndex)
       if (currentIndex === "7") { 
         <% if logged_in? %>
-          window.location = <%= "http://#{request.host_with_port}/profiles" %>;
+          window.location = '<%= "http://#{request.host_with_port}/profiles" %>';
         <% else %>
           $('#continuePopup').click();
         <% end %>
