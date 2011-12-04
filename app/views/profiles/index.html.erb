@@ -1,7 +1,9 @@
+
 <% @connections.length.times do |i| %>
-  <% if !@connections[i].picture_url.nil? %>
   <div data-role="page" id="c<%=@connections[i].linkedin_id %>"
        data-profile="true"
+       data-index="<%= i %>"
+       data-current-id="<%=@connections[i].linkedin_id %>"
       <% if i > 0 %>
         data-prev-id="c<%= @connections[i-1].linkedin_id %>"
       <% end %>
@@ -11,10 +13,12 @@
   >
     <div data-role="header">
      <h4>See how your friends are rated with</h4>
-     <a href="/session" data-role="none" data-ajax="false" class="ui-btn-right">
-       <img data-role="none" class="loginIcon" data-role="none"
-            src="/assets/linkedin_signin.png" ></img>
-     </a>
+     <% if !logged_in? %>
+       <a href="/session" data-role="none" data-ajax="false" class="ui-btn-right">
+         <img data-role="none" class="loginIcon" data-role="none"
+              src="/assets/linkedin_signin.png" ></img>
+       </a>
+      <% end %>
     </div><!-- /header -->
 
    <div data-role="content">
@@ -48,51 +52,31 @@
     </div>
 
     <div data-role="footer">
-<!--
-      <% if i > 0 %>
-        <a href="#c<%= @connections[i-1].linkedin_id %>" data-role="button"
-           data-inline="true">Prev</a>
-      <% end %>
-      <% if i < @connections.length - 1 %>
-      <a href="#c<%= @connections[i+1].linkedin_id %>" data-role="button"
-         data-inline="true">Next</a>
-      <% end %>
--->
+      <h4 class="ui-title" tabindex="0" role="heading" aria-level="1">LinkRate</h4>
+      <%= link_to "food", "cool.html", :class => ((i == @connections.length - 1) ? "last" : "normal"), :"data-rel" => "dialog", :"data-transition" => "pop", :id => "continuePopup", :style => "display:none"  %>      
     </div>
-
-
   </div>
-
-  <% end %>
 <% end %>
 
 <script>
   $('[data-vote="true"]').live('tap', function() {
-    console.log('vote');
     score = $(this).text();
     if ($(this).parents('[data-role="page"]').attr('data-next-id')) {
+      var currentId = $(this).parents('[data-role="page"]').attr('data-current-id');
       var nextId = $(this).parents('[data-role="page"]').attr('data-next-id');
-      jQuery.post('/scores', {linkedin_id: nextId, score: score}); 
+      var currentIndex = $(this).parents('[data-role="page"]').attr('data-index');
+      
+      jQuery.post('/scores', {linkedin_id: currentId, score: score}); 
       $.mobile.changePage('#' + nextId);
+      if (currentIndex === "7") { 
+        <% if logged_in? %>
+          window.location = <%= "http://#{request.host_with_port}/profiles" %>;
+        <% else %>
+          $('#continuePopup').click();
+        <% end %>
+      }
     }
   });
-
-/*
-  $('[data-profile="true"]').find('[data-role="content"]').live('tap swipeleft', function() {
-    if ($(this).parents('[data-role="page"]').attr('data-next-id')) {
-      $.mobile.changePage('#' + $(this).parents('[data-role="page"]').attr(
-        'data-next-id'));
-    }
-  });
-*/
-/*
-  $('[data-profile="true"]').find('[data-role="content"]').live(
-    'swiperight', function() {
-    if ($(this).parents('[data-role="page"]').attr('data-prev-id')) {
-      $.mobile.changePage('#' + $(this).parents('[data-role="page"]').attr('data-prev-id'), {reverse: true});
-    }
-  });
-*/
 
 </script>
 

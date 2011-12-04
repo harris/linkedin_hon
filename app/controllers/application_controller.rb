@@ -1,13 +1,18 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery
   # before_filter :login_required
+  helper_method :logged_in?
   
   def login_required
-    if session[:atoken].nil? || session[:asecret].nil?
+    if !logged_in?
       redirect_to session_path
     else 
       client.authorize_from_access(session[:atoken], session[:asecret])      
     end
+  end
+  
+  def logged_in?
+    !session[:user_id].nil?
   end
   
   def client 
