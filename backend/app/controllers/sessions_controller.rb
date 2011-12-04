@@ -16,9 +16,7 @@ class SessionsController < ApplicationController
     else
       $client.authorize_from_access(session[:atoken], session[:asecret])
     end
-    @profile = $client.profile
-    @connections = $client.connections
-    render :text => @connections.all.length
+    redirect_to connections_path
   end
 
 end
