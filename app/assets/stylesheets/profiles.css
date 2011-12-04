@@ -2,6 +2,10 @@ img.statsImg {
    width: 50px;
 }
 
+b.score {
+  font-size: 300%;
+}
+
 img.statsHeadlien {
    display: inline-block;
 }
