@@ -18,8 +18,10 @@ class SessionsController < ApplicationController
     end
     uri = URI(client.profile.site_standard_profile_request.url)    
     linkedin_id = /&key=(\d+)/.match(uri.query)[1]
-    user = User.find_by_linkedin_id(linkedin_id)    
-    User.create!(:linkedin_id => linkedin_id) if !user
+    unless User.exists?(:linkedin_id => linkedin_id)
+      user = User.create!(:linkedin_id => linkedin_id) 
+      user.import_connections(client)
+    end
     redirect_to connections_path    
   end
 

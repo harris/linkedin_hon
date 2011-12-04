@@ -9,6 +9,7 @@ gem 'sqlite3'
 gem "linkedin"
 gem 'json'
 gem "execjs"
+gem "nokogiri"
 
 # Gems used only for assets and not required
 # in production environments by default.

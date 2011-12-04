@@ -12,8 +12,10 @@ class AddUserData < ActiveRecord::Migration
       t.string :title
       t.string :first_name
       t.string :last_name      
-      t.string :small_url
-      t.string :big_url
+      t.string :picture_url
+      t.string :industry
+      t.string :location
+      t.string :country
       t.integer :linkedin_id
       t.timestamps
     end    
