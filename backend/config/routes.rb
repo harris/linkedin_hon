@@ -13,6 +13,11 @@ Backend::Application.routes.draw do
   # Sample resource route (maps HTTP verbs to controller actions automatically):
   #   resources :products
 
+  resource :session do 
+    member do 
+      get 'callback'
+    end
+  end
   # Sample resource route with options:
   #   resources :products do
   #     member do
