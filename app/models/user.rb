@@ -35,9 +35,5 @@ class User < ActiveRecord::Base
       rescue Exception => e        
       end
     end    
-  end
-  
-  handle_asynchronously :import_connections
-  
-    
+  end  
 end
