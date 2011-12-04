@@ -15,6 +15,7 @@ img.profile {
 }
 
 div.voteButtons {
+  padding: 0;
   font-size: 100%;
 }
 
