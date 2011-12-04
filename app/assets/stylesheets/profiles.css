@@ -35,3 +35,7 @@ p.logout {
   text-decoration:none;
   color: white;
 }
+
+ui-btn-inner {
+    padding: 0;
+}

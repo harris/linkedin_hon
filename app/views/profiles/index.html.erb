@@ -14,14 +14,13 @@
   >
     <div data-role="header">
      <h2 style="text-align:left; margin-left:10px;">
-      Hot or Not (Professional Edition)
-     </h2>
+      Hot or Not </h2>
 
      <p>
        <% if !logged_in? %>
-       
+ 
      <a href="/session" data-role="none" data-ajax="false" class="ui-btn-right login">
-       See friends ratings with &nbsp; <img data-role="none" class="loginIcon" data-role="none"
+       <img data-role="none" class="loginIcon" data-role="none"
             src="/assets/linkedin_signin.png" ></img>
      </a>
      <% else %>
@@ -37,30 +36,33 @@
 
    <div data-role="content">
 
+    <% if i > 0 %>
+
     <div class="stats"
-      <% if i > 0 %>
+      <div class="stats"
       id="stats<%= @connections[i-1].linkedin_id %>"
-      <% end %>
-    >
-      <% if i > 0 %>
-      <img class="statsImg" src="<%= @connections[i-1].picture_url %>" />
+
+      <img class="statsImg" src="<%= @connections[i-1].picture_url %>"></img>
       <b class="score" data-score="true"></b>
       <b class="statsHeadline"> <%=@connections[i-1].title%></b>
       <i class="statsHeadline">, <%= @connections[i-1].industry %></i>
-      <% end %>
     </div>
  
+   <% end %>
+
 <div data-role="controlgroup" data-type="horizontal" class="voteButtons">
   <a data-vote='true' href="#" data-role="button">1</a> 
   <a data-vote='true' href="#" data-role="button">2</a>
   <a data-vote='true' href="#" data-role="button">3</a>
   <a data-vote='true' href="#" data-role="button">4</a>
   <a data-vote='true' href="#" data-role="button">5</a>
+<!--
   <a data-vote='true' href="#" data-role="button">6</a>
   <a data-vote='true' href="#" data-role="button">7</a>
   <a data-vote='true' href="#" data-role="button">8</a>
   <a data-vote='true' href="#" data-role="button">9</a> 
   <a data-vote='true' href="#" data-role="button">10</a> 
+-->
 </div>
 
       <img class="profile" src="<%= @connections[i].picture_url %>" />
