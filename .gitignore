@@ -1,4 +1,4 @@
 log/*.log
-tmp/*
+tmp/**/*
 tmp/pids/server.pid
 db/*

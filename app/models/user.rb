@@ -3,6 +3,8 @@ class User < ActiveRecord::Base
   after_create :mark_as_created
   after_commit :import_connections, :if => :persisted?  
   validates_uniqueness_of :linkedin_id
+  has_many :scores
+  has_many :connections, :through => :scores
   
   def mark_as_created
     @created = true
@@ -11,13 +13,7 @@ class User < ActiveRecord::Base
   def persisted?
     @created
   end
-  
-  def rate(linkedin_id, score = 5)    
-    Score.create!(:user_id => self.id, :connection_id => Connection.find_by_linkedin_id(linkedin_id).id, :score => score)
-    connection.increment(:total_score, score)
-    connection.increment(:num_scores, 1)
-  end
-  
+    
   def import_connections(client)
     connection = Connection.find_or_create_by_linkedin_id(self.linkedin_id)
     connection.update_attributes!(:first_name => client.profile.first_name, :last_name => client.profile.last_name)
