@@ -5,6 +5,8 @@ class ApplicationController < ActionController::Base
   def login_required
     if session[:atoken].nil? || session[:asecret].nil?
       redirect_to session_path
+    else 
+      $client.authorize_from_access(session[:atoken], session[:asecret])      
     end
   end
   
