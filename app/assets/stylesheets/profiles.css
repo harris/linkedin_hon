@@ -29,6 +29,7 @@ div.stats {
 a.login {
   text-decoration:none;
   color: white;
+  padding: 0px;
 }
 
 p.logout {

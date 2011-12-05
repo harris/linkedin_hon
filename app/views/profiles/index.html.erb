@@ -14,10 +14,9 @@
   >
     <div data-role="header">
      <h2 style="text-align:left; margin-left:10px;">
-      Hot or Not </h2>
+      Rate me Hot or Not!</h2>
 
-     <p>
-       <% if !logged_in? %>
+     <% if !logged_in? %>
  
      <a href="/session" data-role="none" data-ajax="false" class="ui-btn-right login">
        <img data-role="none" class="loginIcon" data-role="none"
@@ -30,7 +29,6 @@
      </p> 
 
      <% end %>
-     </p>
 
     </div><!-- /header -->
 
@@ -64,6 +62,11 @@
   <a data-vote='true' href="#" data-role="button">10</a> 
 -->
 </div>
+<h1>
+<font color="blue">NOT</font>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
+<font color="red"> HOT</font></h1>
 
       <img class="profile" src="<%= @connections[i].picture_url %>" />
     </div>
