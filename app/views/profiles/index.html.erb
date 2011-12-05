@@ -13,8 +13,7 @@
       data-num-scores="<%=@connections[i].num_scores %>"
   >
     <div data-role="header">
-     <h2 style="text-align:left; margin-left:10px;">
-      Rate me Hot or Not!</h2>
+     <h2 style="text-align:left; margin-left:10px;">Hot or Not?</h2>
 
      <% if !logged_in? %>
  
@@ -96,6 +95,8 @@
   var t = setTimeout("$.mobile.hidePageLoadingMsg()", 500);
 
   $('[data-vote="true"]').live('tap', function() {
+    console.log('blah');
+
     score = $(this).text();
     console.log(score);
 
