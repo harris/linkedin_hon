@@ -41,8 +41,8 @@
 
       <img class="statsImg" src="<%=@connections[i-1].picture_url %>"/>
       <b class="score" data-score="true"></b>
-      <b class="statsHeadline"> <%=@connections[i-1].title%></b>
-      <i class="statsHeadline">, <%= @connections[i-1].industry %></i>
+      <p><b class="statsHeadline"><%=@connections[i-1].title%></b><br>
+      <i class="statsHeadline"><%=@connections[i-1].industry%></i></p>
     </div>
  
    <% end %>
@@ -74,8 +74,11 @@
 
 
 <div data-role="page" id="upsellPage">
+  <div data-role="header"></div>
   <div data-role="content">
-     See hotties in your business network!!
+     <p>See all the hotties in your company!</p>
+     <p>Find out how you're being rated now!</p>
+     <p>Learn which industry has all the hotties!</p>
 
      <a href="/session" data-role="none" data-ajax="false">
       <img data-role="none" class="loginIcon" data-role="none"
@@ -120,7 +123,7 @@
         window.location = '<%= "http://#{request.host_with_port}/profiles" %>';
       <% else %>
         console.log('upsell page');
-        $.mobile.changePage('#upsellPage', {transition: 'pop', role: 'dialog'});
+        $.mobile.changePage('#upsellPage', {transition: 'flip', role: 'dialog'});
       <% end %>
     }
   });
