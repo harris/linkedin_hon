@@ -1,0 +1,7 @@
+<div data-role="page" id="you score">
+  <% if @connection.num_scores == 0 %>
+  <div>No one rated you yet.</div>
+  <% else %>
+  <div>Yous score is <%= @connection.total_score/(@connection.num_scores * 1.0) %>.</div>
+  <% end %>
+</div>

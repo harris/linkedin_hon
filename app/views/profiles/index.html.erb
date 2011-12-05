@@ -24,7 +24,7 @@
      </a>
      <% else %>
      <p class="ui-btn-right logout">
-         Hello, <%= current_user.connection.first_name %>
+         Hello, <%= link_to current_user.connection.first_name, profile_path(current_user.id) %>
        <a href="/session/delete" data-ajax="false">Logout</a>
      </p> 
 
